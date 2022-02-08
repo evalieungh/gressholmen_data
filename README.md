@@ -18,4 +18,4 @@ Related publications:
 - Evju, Marianne, and Anne Sverdrup-Thygeson. “Spatial Configuration Matters: A Test of the Habitat Amount Hypothesis for Plants in Calcareous Grasslands.” Landscape Ecology 31, no. 9 (November 2016): 1891–1902. https://doi.org/10.1007/s10980-016-0405-7.
 - Olsen, Siri Lie, Marianne Evju, and Anders Endrestøl. “Fragmentation in Calcareous Grasslands: Species Specialization Matters.” Biodiversity and Conservation 27, no. 9 (July 2018): 2329–61. https://doi.org/10.1007/s10531-018-1540-z.
 - Sverdrup-Thygeson, Anne, Olav Skarpaas, Stefan Blumentrath, Tone Birkemoe, and Marianne Evju. “Habitat Connectivity Affects Specialist Species Richness More than Generalists in Veteran Trees.” Forest Ecology and Management 403 (November 2017): 96–102. https://doi.org/10.1016/j.foreco.2017.08.003.
-
+- Wollan, A. K., V. Bakkestuen, K. Bjureke, H. Bratli, A. Endrestøl, O. E. Stabbetorp, A. Sverdrup-Thygeson, and R. Halvorsen. “Åpen  Grunnlendt  Kalkmark  i  Oslofjordområdet  –  et  Hotspot-Habitat. Sluttrapport  under  ARKO-Prosjektets  Periode  II. NINA-Rapport 713.” Oslo: NINA, 2011.
