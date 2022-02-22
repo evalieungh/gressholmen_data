@@ -2,10 +2,11 @@
 
 ### doi: 
 
-This repository contains additional data and resources for the data paper "..."
-
-
 Contact: [Eva Lieungh](https://evalieungh.github.io/)
+
+This repository contains additional data and resources for the data published ...
+
+
 
 
 
