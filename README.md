@@ -11,6 +11,7 @@ This repository contains additional data and resources for the data published ..
 | File | Description |
 |--- |---|
 | Gressholmen_polygoner.png | Aerial photo from 2018-05-06, Oslo municipality, Ortofoto 10, resolution 0.08 (m), Dekningsnummer	TT-14340. Polygons 35_1, ..., 35_15 correspond to polygons 1-15 in the data. The number '35' denotes the grid number ("storrute") in ARKO data. Polygons 0_16,..., 0_40 are identified or modelled habitat locations that do not contain species observation, but were described using NiN variables in 2019. |
+| iNaturalist_observations-214637.csv | Comma separated download of observations in/around Gressholmen. Some observations have bad coordinates. See [observations in iNaturalist](https://www.inaturalist.org/observations?place_id=any&user_id=evalieungh&verifiable=any).|
 |  |  |
 
 
