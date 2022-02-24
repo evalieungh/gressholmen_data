@@ -1,10 +1,11 @@
-# Additional data for Presence-absence of plant habitat specialists in 15 patches
+# Additional data for Presence-absence of plant habitat specialists in 15 patches of calcareous, dry grasslands
 
 ### doi: 
+### <https://www.gbif.org/dataset/a99cf6c0-4eb2-476b-8414-a513f0925d86>
 
-Contact: [Eva Lieungh](https://evalieungh.github.io/)
+Contact: Eva Lieungh
 
-This repository contains additional data and resources for the data published ...
+This repository contains additional data and resources for the data published on [GBIF](https://www.gbif.org/dataset/a99cf6c0-4eb2-476b-8414-a513f0925d86) ...
 
 ### Contents:
 
@@ -12,10 +13,11 @@ This repository contains additional data and resources for the data published ..
 |--- |---|
 | Gressholmen_polygoner.png | Aerial photo from 2018-05-06, Oslo municipality, Ortofoto 10, resolution 0.08 (m), Dekningsnummer	TT-14340. Polygons 35_1, ..., 35_15 correspond to polygons 1-15 in the data. The number '35' denotes the grid number ("storrute") in ARKO data. Polygons 0_16,..., 0_40 are identified or modelled habitat locations that do not contain species observation, but were described using NiN variables in 2019. |
 | iNaturalist_observations-214637.csv | Comma separated download of observations in/around Gressholmen. Some observations have bad coordinates. See [observations in iNaturalist](https://www.inaturalist.org/observations?place_id=any&user_id=evalieungh&verifiable=any).|
+| polygondata.csv | Additional information per polygon; p1-p15 correspond to polygons 1-15, or 35_1-35_15 in the image. Polygons 0_16-0_40 are also shown in the image. [Vegetation type](https://onlinelibrary.wiley.com/doi/10.1111/geb.13164 "Nature in Norway types, see supplement") is given as rounded percentages of one of three major types (columns 2-9): T1 Bare rock, T2 Open shallow-soil ground, T32 Semi-natural grassland, or T4 Forest |
 |  |  |
 
 
-
+![Polygons on Gressholmen](Gressholmen_polygoner.png)
 
 -----------------------------------------------------
 
