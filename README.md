@@ -6,7 +6,7 @@
 
 Contact: [Eva Lieungh](https://evalieungh.github.io/)
 
-This repository contains additional data and resources for the data published on [GBIF](https://www.gbif.org/dataset/a99cf6c0-4eb2-476b-8414-a513f0925d86) ...
+This repository contains additional data and resources for the data published on [GBIF](https://www.gbif.org/dataset/a99cf6c0-4eb2-476b-8414-a513f0925d86).
 Submit an [issue](https://github.com/evalieungh/gressholmen_data/issues/new) if you have questions or comments! 
 
 ### Contents:
