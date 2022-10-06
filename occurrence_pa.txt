@@ -1,0 +1,2206 @@
+"scientificName" "occurrenceRemarks" "occurrenceStatus" "occurrenceStatus01"
+"1" "Acinos arvensis (Lam.) Dandy" "p1-2009" "present" 1
+"2" "Acinos arvensis (Lam.) Dandy" "p2-2009" "present" 1
+"3" "Acinos arvensis (Lam.) Dandy" "p3-2009" "absent" 0
+"4" "Acinos arvensis (Lam.) Dandy" "p4-2009" "present" 1
+"5" "Acinos arvensis (Lam.) Dandy" "p5-2009" "present" 1
+"6" "Acinos arvensis (Lam.) Dandy" "p6-2009" "present" 1
+"7" "Acinos arvensis (Lam.) Dandy" "p7-2009" "present" 1
+"8" "Acinos arvensis (Lam.) Dandy" "p8-2009" "present" 1
+"9" "Acinos arvensis (Lam.) Dandy" "p9-2009" "present" 1
+"10" "Acinos arvensis (Lam.) Dandy" "p10-2009" "present" 1
+"11" "Acinos arvensis (Lam.) Dandy" "p11-2009" "absent" 0
+"12" "Acinos arvensis (Lam.) Dandy" "p12-2009" "present" 1
+"13" "Acinos arvensis (Lam.) Dandy" "p13-2009" "present" 1
+"14" "Acinos arvensis (Lam.) Dandy" "p14-2009" "present" 1
+"15" "Acinos arvensis (Lam.) Dandy" "p15-2009" "absent" 0
+"16" "Acinos arvensis (Lam.) Dandy" "p1-2019" "absent" 0
+"17" "Acinos arvensis (Lam.) Dandy" "p2-2019" "present" 1
+"18" "Acinos arvensis (Lam.) Dandy" "p3-2019" "present" 1
+"19" "Acinos arvensis (Lam.) Dandy" "p4-2019" "present" 1
+"20" "Acinos arvensis (Lam.) Dandy" "p5-2019" "absent" 0
+"21" "Acinos arvensis (Lam.) Dandy" "p6-2019" "present" 1
+"22" "Acinos arvensis (Lam.) Dandy" "p7-2019" "present" 1
+"23" "Acinos arvensis (Lam.) Dandy" "p8-2019" "present" 1
+"24" "Acinos arvensis (Lam.) Dandy" "p9-2019" "present" 1
+"25" "Acinos arvensis (Lam.) Dandy" "p10-2019" "present" 1
+"26" "Acinos arvensis (Lam.) Dandy" "p11-2019" "present" 1
+"27" "Acinos arvensis (Lam.) Dandy" "p12-2019" "present" 1
+"28" "Acinos arvensis (Lam.) Dandy" "p13-2019" "present" 1
+"29" "Acinos arvensis (Lam.) Dandy" "p14-2019" "present" 1
+"30" "Acinos arvensis (Lam.) Dandy" "p15-2019" "present" 1
+"31" "Acinos arvensis (Lam.) Dandy" "p1-2020" "present" 1
+"32" "Acinos arvensis (Lam.) Dandy" "p2-2020" "present" 1
+"33" "Acinos arvensis (Lam.) Dandy" "p3-2020" "present" 1
+"34" "Acinos arvensis (Lam.) Dandy" "p4-2020" "present" 1
+"35" "Acinos arvensis (Lam.) Dandy" "p5-2020" "present" 1
+"36" "Acinos arvensis (Lam.) Dandy" "p6-2020" "present" 1
+"37" "Acinos arvensis (Lam.) Dandy" "p7-2020" "present" 1
+"38" "Acinos arvensis (Lam.) Dandy" "p8-2020" "present" 1
+"39" "Acinos arvensis (Lam.) Dandy" "p9-2020" "present" 1
+"40" "Acinos arvensis (Lam.) Dandy" "p10-2020" "present" 1
+"41" "Acinos arvensis (Lam.) Dandy" "p11-2020" "present" 1
+"42" "Acinos arvensis (Lam.) Dandy" "p12-2020" "present" 1
+"43" "Acinos arvensis (Lam.) Dandy" "p13-2020" "present" 1
+"44" "Acinos arvensis (Lam.) Dandy" "p14-2020" "present" 1
+"45" "Acinos arvensis (Lam.) Dandy" "p15-2020" "present" 1
+"46" "Androsace septentrionalis L." "p1-2009" "absent" 0
+"47" "Androsace septentrionalis L." "p2-2009" "absent" 0
+"48" "Androsace septentrionalis L." "p3-2009" "absent" 0
+"49" "Androsace septentrionalis L." "p4-2009" "present" 1
+"50" "Androsace septentrionalis L." "p5-2009" "present" 1
+"51" "Androsace septentrionalis L." "p6-2009" "absent" 0
+"52" "Androsace septentrionalis L." "p7-2009" "present" 1
+"53" "Androsace septentrionalis L." "p8-2009" "absent" 0
+"54" "Androsace septentrionalis L." "p9-2009" "absent" 0
+"55" "Androsace septentrionalis L." "p10-2009" "absent" 0
+"56" "Androsace septentrionalis L." "p11-2009" "present" 1
+"57" "Androsace septentrionalis L." "p12-2009" "present" 1
+"58" "Androsace septentrionalis L." "p13-2009" "present" 1
+"59" "Androsace septentrionalis L." "p14-2009" "absent" 0
+"60" "Androsace septentrionalis L." "p15-2009" "absent" 0
+"61" "Androsace septentrionalis L." "p1-2019" "absent" 0
+"62" "Androsace septentrionalis L." "p2-2019" "absent" 0
+"63" "Androsace septentrionalis L." "p3-2019" "absent" 0
+"64" "Androsace septentrionalis L." "p4-2019" "present" 1
+"65" "Androsace septentrionalis L." "p5-2019" "absent" 0
+"66" "Androsace septentrionalis L." "p6-2019" "present" 1
+"67" "Androsace septentrionalis L." "p7-2019" "absent" 0
+"68" "Androsace septentrionalis L." "p8-2019" "absent" 0
+"69" "Androsace septentrionalis L." "p9-2019" "absent" 0
+"70" "Androsace septentrionalis L." "p10-2019" "present" 1
+"71" "Androsace septentrionalis L." "p11-2019" "absent" 0
+"72" "Androsace septentrionalis L." "p12-2019" "absent" 0
+"73" "Androsace septentrionalis L." "p13-2019" "present" 1
+"74" "Androsace septentrionalis L." "p14-2019" "absent" 0
+"75" "Androsace septentrionalis L." "p15-2019" "present" 1
+"76" "Androsace septentrionalis L." "p1-2020" "absent" 0
+"77" "Androsace septentrionalis L." "p2-2020" "present" 1
+"78" "Androsace septentrionalis L." "p3-2020" "absent" 0
+"79" "Androsace septentrionalis L." "p4-2020" "present" 1
+"80" "Androsace septentrionalis L." "p5-2020" "absent" 0
+"81" "Androsace septentrionalis L." "p6-2020" "present" 1
+"82" "Androsace septentrionalis L." "p7-2020" "present" 1
+"83" "Androsace septentrionalis L." "p8-2020" "absent" 0
+"84" "Androsace septentrionalis L." "p9-2020" "absent" 0
+"85" "Androsace septentrionalis L." "p10-2020" "present" 1
+"86" "Androsace septentrionalis L." "p11-2020" "absent" 0
+"87" "Androsace septentrionalis L." "p12-2020" "absent" 0
+"88" "Androsace septentrionalis L." "p13-2020" "present" 1
+"89" "Androsace septentrionalis L." "p14-2020" "present" 1
+"90" "Androsace septentrionalis L." "p15-2020" "present" 1
+"91" "Arabis hirsuta (L.) Scop." "p1-2009" "absent" 0
+"92" "Arabis hirsuta (L.) Scop." "p2-2009" "present" 1
+"93" "Arabis hirsuta (L.) Scop." "p3-2009" "present" 1
+"94" "Arabis hirsuta (L.) Scop." "p4-2009" "present" 1
+"95" "Arabis hirsuta (L.) Scop." "p5-2009" "present" 1
+"96" "Arabis hirsuta (L.) Scop." "p6-2009" "present" 1
+"97" "Arabis hirsuta (L.) Scop." "p7-2009" "present" 1
+"98" "Arabis hirsuta (L.) Scop." "p8-2009" "present" 1
+"99" "Arabis hirsuta (L.) Scop." "p9-2009" "present" 1
+"100" "Arabis hirsuta (L.) Scop." "p10-2009" "present" 1
+"101" "Arabis hirsuta (L.) Scop." "p11-2009" "present" 1
+"102" "Arabis hirsuta (L.) Scop." "p12-2009" "present" 1
+"103" "Arabis hirsuta (L.) Scop." "p13-2009" "present" 1
+"104" "Arabis hirsuta (L.) Scop." "p14-2009" "present" 1
+"105" "Arabis hirsuta (L.) Scop." "p15-2009" "absent" 0
+"106" "Arabis hirsuta (L.) Scop." "p1-2019" "absent" 0
+"107" "Arabis hirsuta (L.) Scop." "p2-2019" "present" 1
+"108" "Arabis hirsuta (L.) Scop." "p3-2019" "present" 1
+"109" "Arabis hirsuta (L.) Scop." "p4-2019" "present" 1
+"110" "Arabis hirsuta (L.) Scop." "p5-2019" "present" 1
+"111" "Arabis hirsuta (L.) Scop." "p6-2019" "present" 1
+"112" "Arabis hirsuta (L.) Scop." "p7-2019" "present" 1
+"113" "Arabis hirsuta (L.) Scop." "p8-2019" "present" 1
+"114" "Arabis hirsuta (L.) Scop." "p9-2019" "present" 1
+"115" "Arabis hirsuta (L.) Scop." "p10-2019" "present" 1
+"116" "Arabis hirsuta (L.) Scop." "p11-2019" "present" 1
+"117" "Arabis hirsuta (L.) Scop." "p12-2019" "present" 1
+"118" "Arabis hirsuta (L.) Scop." "p13-2019" "present" 1
+"119" "Arabis hirsuta (L.) Scop." "p14-2019" "present" 1
+"120" "Arabis hirsuta (L.) Scop." "p15-2019" "present" 1
+"121" "Arabis hirsuta (L.) Scop." "p1-2020" "absent" 0
+"122" "Arabis hirsuta (L.) Scop." "p2-2020" "present" 1
+"123" "Arabis hirsuta (L.) Scop." "p3-2020" "present" 1
+"124" "Arabis hirsuta (L.) Scop." "p4-2020" "present" 1
+"125" "Arabis hirsuta (L.) Scop." "p5-2020" "present" 1
+"126" "Arabis hirsuta (L.) Scop." "p6-2020" "present" 1
+"127" "Arabis hirsuta (L.) Scop." "p7-2020" "present" 1
+"128" "Arabis hirsuta (L.) Scop." "p8-2020" "present" 1
+"129" "Arabis hirsuta (L.) Scop." "p9-2020" "present" 1
+"130" "Arabis hirsuta (L.) Scop." "p10-2020" "present" 1
+"131" "Arabis hirsuta (L.) Scop." "p11-2020" "present" 1
+"132" "Arabis hirsuta (L.) Scop." "p12-2020" "present" 1
+"133" "Arabis hirsuta (L.) Scop." "p13-2020" "present" 1
+"134" "Arabis hirsuta (L.) Scop." "p14-2020" "present" 1
+"135" "Arabis hirsuta (L.) Scop." "p15-2020" "present" 1
+"136" "Aria edulis (Willd.) M.Roem." "p1-2009" "absent" 0
+"137" "Aria edulis (Willd.) M.Roem." "p2-2009" "present" 1
+"138" "Aria edulis (Willd.) M.Roem." "p3-2009" "absent" 0
+"139" "Aria edulis (Willd.) M.Roem." "p4-2009" "absent" 0
+"140" "Aria edulis (Willd.) M.Roem." "p5-2009" "absent" 0
+"141" "Aria edulis (Willd.) M.Roem." "p6-2009" "absent" 0
+"142" "Aria edulis (Willd.) M.Roem." "p7-2009" "absent" 0
+"143" "Aria edulis (Willd.) M.Roem." "p8-2009" "absent" 0
+"144" "Aria edulis (Willd.) M.Roem." "p9-2009" "absent" 0
+"145" "Aria edulis (Willd.) M.Roem." "p10-2009" "present" 1
+"146" "Aria edulis (Willd.) M.Roem." "p11-2009" "absent" 0
+"147" "Aria edulis (Willd.) M.Roem." "p12-2009" "absent" 0
+"148" "Aria edulis (Willd.) M.Roem." "p13-2009" "absent" 0
+"149" "Aria edulis (Willd.) M.Roem." "p14-2009" "absent" 0
+"150" "Aria edulis (Willd.) M.Roem." "p15-2009" "absent" 0
+"151" "Aria edulis (Willd.) M.Roem." "p1-2019" "absent" 0
+"152" "Aria edulis (Willd.) M.Roem." "p2-2019" "present" 1
+"153" "Aria edulis (Willd.) M.Roem." "p3-2019" "absent" 0
+"154" "Aria edulis (Willd.) M.Roem." "p4-2019" "absent" 0
+"155" "Aria edulis (Willd.) M.Roem." "p5-2019" "absent" 0
+"156" "Aria edulis (Willd.) M.Roem." "p6-2019" "absent" 0
+"157" "Aria edulis (Willd.) M.Roem." "p7-2019" "absent" 0
+"158" "Aria edulis (Willd.) M.Roem." "p8-2019" "present" 1
+"159" "Aria edulis (Willd.) M.Roem." "p9-2019" "absent" 0
+"160" "Aria edulis (Willd.) M.Roem." "p10-2019" "absent" 0
+"161" "Aria edulis (Willd.) M.Roem." "p11-2019" "absent" 0
+"162" "Aria edulis (Willd.) M.Roem." "p12-2019" "absent" 0
+"163" "Aria edulis (Willd.) M.Roem." "p13-2019" "absent" 0
+"164" "Aria edulis (Willd.) M.Roem." "p14-2019" "absent" 0
+"165" "Aria edulis (Willd.) M.Roem." "p15-2019" "absent" 0
+"166" "Aria edulis (Willd.) M.Roem." "p1-2020" "absent" 0
+"167" "Aria edulis (Willd.) M.Roem." "p2-2020" "present" 1
+"168" "Aria edulis (Willd.) M.Roem." "p3-2020" "absent" 0
+"169" "Aria edulis (Willd.) M.Roem." "p4-2020" "absent" 0
+"170" "Aria edulis (Willd.) M.Roem." "p5-2020" "absent" 0
+"171" "Aria edulis (Willd.) M.Roem." "p6-2020" "absent" 0
+"172" "Aria edulis (Willd.) M.Roem." "p7-2020" "absent" 0
+"173" "Aria edulis (Willd.) M.Roem." "p8-2020" "present" 1
+"174" "Aria edulis (Willd.) M.Roem." "p9-2020" "absent" 0
+"175" "Aria edulis (Willd.) M.Roem." "p10-2020" "absent" 0
+"176" "Aria edulis (Willd.) M.Roem." "p11-2020" "absent" 0
+"177" "Aria edulis (Willd.) M.Roem." "p12-2020" "absent" 0
+"178" "Aria edulis (Willd.) M.Roem." "p13-2020" "absent" 0
+"179" "Aria edulis (Willd.) M.Roem." "p14-2020" "absent" 0
+"180" "Aria edulis (Willd.) M.Roem." "p15-2020" "absent" 0
+"181" "Asplenium ruta-muraria L." "p1-2009" "absent" 0
+"182" "Asplenium ruta-muraria L." "p2-2009" "absent" 0
+"183" "Asplenium ruta-muraria L." "p3-2009" "absent" 0
+"184" "Asplenium ruta-muraria L." "p4-2009" "absent" 0
+"185" "Asplenium ruta-muraria L." "p5-2009" "absent" 0
+"186" "Asplenium ruta-muraria L." "p6-2009" "absent" 0
+"187" "Asplenium ruta-muraria L." "p7-2009" "present" 1
+"188" "Asplenium ruta-muraria L." "p8-2009" "present" 1
+"189" "Asplenium ruta-muraria L." "p9-2009" "present" 1
+"190" "Asplenium ruta-muraria L." "p10-2009" "present" 1
+"191" "Asplenium ruta-muraria L." "p11-2009" "absent" 0
+"192" "Asplenium ruta-muraria L." "p12-2009" "absent" 0
+"193" "Asplenium ruta-muraria L." "p13-2009" "present" 1
+"194" "Asplenium ruta-muraria L." "p14-2009" "absent" 0
+"195" "Asplenium ruta-muraria L." "p15-2009" "present" 1
+"196" "Asplenium ruta-muraria L." "p1-2019" "absent" 0
+"197" "Asplenium ruta-muraria L." "p2-2019" "absent" 0
+"198" "Asplenium ruta-muraria L." "p3-2019" "absent" 0
+"199" "Asplenium ruta-muraria L." "p4-2019" "absent" 0
+"200" "Asplenium ruta-muraria L." "p5-2019" "absent" 0
+"201" "Asplenium ruta-muraria L." "p6-2019" "absent" 0
+"202" "Asplenium ruta-muraria L." "p7-2019" "present" 1
+"203" "Asplenium ruta-muraria L." "p8-2019" "absent" 0
+"204" "Asplenium ruta-muraria L." "p9-2019" "absent" 0
+"205" "Asplenium ruta-muraria L." "p10-2019" "absent" 0
+"206" "Asplenium ruta-muraria L." "p11-2019" "absent" 0
+"207" "Asplenium ruta-muraria L." "p12-2019" "absent" 0
+"208" "Asplenium ruta-muraria L." "p13-2019" "present" 1
+"209" "Asplenium ruta-muraria L." "p14-2019" "absent" 0
+"210" "Asplenium ruta-muraria L." "p15-2019" "present" 1
+"211" "Asplenium ruta-muraria L." "p1-2020" "absent" 0
+"212" "Asplenium ruta-muraria L." "p2-2020" "absent" 0
+"213" "Asplenium ruta-muraria L." "p3-2020" "absent" 0
+"214" "Asplenium ruta-muraria L." "p4-2020" "present" 1
+"215" "Asplenium ruta-muraria L." "p5-2020" "absent" 0
+"216" "Asplenium ruta-muraria L." "p6-2020" "absent" 0
+"217" "Asplenium ruta-muraria L." "p7-2020" "present" 1
+"218" "Asplenium ruta-muraria L." "p8-2020" "absent" 0
+"219" "Asplenium ruta-muraria L." "p9-2020" "absent" 0
+"220" "Asplenium ruta-muraria L." "p10-2020" "present" 1
+"221" "Asplenium ruta-muraria L." "p11-2020" "absent" 0
+"222" "Asplenium ruta-muraria L." "p12-2020" "absent" 0
+"223" "Asplenium ruta-muraria L." "p13-2020" "present" 1
+"224" "Asplenium ruta-muraria L." "p14-2020" "absent" 0
+"225" "Asplenium ruta-muraria L." "p15-2020" "present" 1
+"226" "Avenula pratensis (L.) Dumort." "p1-2009" "absent" 0
+"227" "Avenula pratensis (L.) Dumort." "p2-2009" "present" 1
+"228" "Avenula pratensis (L.) Dumort." "p3-2009" "present" 1
+"229" "Avenula pratensis (L.) Dumort." "p4-2009" "present" 1
+"230" "Avenula pratensis (L.) Dumort." "p5-2009" "present" 1
+"231" "Avenula pratensis (L.) Dumort." "p6-2009" "present" 1
+"232" "Avenula pratensis (L.) Dumort." "p7-2009" "present" 1
+"233" "Avenula pratensis (L.) Dumort." "p8-2009" "present" 1
+"234" "Avenula pratensis (L.) Dumort." "p9-2009" "present" 1
+"235" "Avenula pratensis (L.) Dumort." "p10-2009" "present" 1
+"236" "Avenula pratensis (L.) Dumort." "p11-2009" "present" 1
+"237" "Avenula pratensis (L.) Dumort." "p12-2009" "present" 1
+"238" "Avenula pratensis (L.) Dumort." "p13-2009" "present" 1
+"239" "Avenula pratensis (L.) Dumort." "p14-2009" "present" 1
+"240" "Avenula pratensis (L.) Dumort." "p15-2009" "present" 1
+"241" "Avenula pratensis (L.) Dumort." "p1-2019" "present" 1
+"242" "Avenula pratensis (L.) Dumort." "p2-2019" "present" 1
+"243" "Avenula pratensis (L.) Dumort." "p3-2019" "present" 1
+"244" "Avenula pratensis (L.) Dumort." "p4-2019" "present" 1
+"245" "Avenula pratensis (L.) Dumort." "p5-2019" "absent" 0
+"246" "Avenula pratensis (L.) Dumort." "p6-2019" "present" 1
+"247" "Avenula pratensis (L.) Dumort." "p7-2019" "present" 1
+"248" "Avenula pratensis (L.) Dumort." "p8-2019" "present" 1
+"249" "Avenula pratensis (L.) Dumort." "p9-2019" "absent" 0
+"250" "Avenula pratensis (L.) Dumort." "p10-2019" "present" 1
+"251" "Avenula pratensis (L.) Dumort." "p11-2019" "present" 1
+"252" "Avenula pratensis (L.) Dumort." "p12-2019" "present" 1
+"253" "Avenula pratensis (L.) Dumort." "p13-2019" "present" 1
+"254" "Avenula pratensis (L.) Dumort." "p14-2019" "present" 1
+"255" "Avenula pratensis (L.) Dumort." "p15-2019" "present" 1
+"256" "Avenula pratensis (L.) Dumort." "p1-2020" "present" 1
+"257" "Avenula pratensis (L.) Dumort." "p2-2020" "present" 1
+"258" "Avenula pratensis (L.) Dumort." "p3-2020" "present" 1
+"259" "Avenula pratensis (L.) Dumort." "p4-2020" "present" 1
+"260" "Avenula pratensis (L.) Dumort." "p5-2020" "present" 1
+"261" "Avenula pratensis (L.) Dumort." "p6-2020" "present" 1
+"262" "Avenula pratensis (L.) Dumort." "p7-2020" "present" 1
+"263" "Avenula pratensis (L.) Dumort." "p8-2020" "present" 1
+"264" "Avenula pratensis (L.) Dumort." "p9-2020" "present" 1
+"265" "Avenula pratensis (L.) Dumort." "p10-2020" "present" 1
+"266" "Avenula pratensis (L.) Dumort." "p11-2020" "present" 1
+"267" "Avenula pratensis (L.) Dumort." "p12-2020" "present" 1
+"268" "Avenula pratensis (L.) Dumort." "p13-2020" "present" 1
+"269" "Avenula pratensis (L.) Dumort." "p14-2020" "present" 1
+"270" "Avenula pratensis (L.) Dumort." "p15-2020" "present" 1
+"271" "Carex caryophyllea Latourr." "p1-2009" "absent" 0
+"272" "Carex caryophyllea Latourr." "p2-2009" "present" 1
+"273" "Carex caryophyllea Latourr." "p3-2009" "absent" 0
+"274" "Carex caryophyllea Latourr." "p4-2009" "present" 1
+"275" "Carex caryophyllea Latourr." "p5-2009" "absent" 0
+"276" "Carex caryophyllea Latourr." "p6-2009" "absent" 0
+"277" "Carex caryophyllea Latourr." "p7-2009" "present" 1
+"278" "Carex caryophyllea Latourr." "p8-2009" "present" 1
+"279" "Carex caryophyllea Latourr." "p9-2009" "present" 1
+"280" "Carex caryophyllea Latourr." "p10-2009" "present" 1
+"281" "Carex caryophyllea Latourr." "p11-2009" "present" 1
+"282" "Carex caryophyllea Latourr." "p12-2009" "present" 1
+"283" "Carex caryophyllea Latourr." "p13-2009" "present" 1
+"284" "Carex caryophyllea Latourr." "p14-2009" "absent" 0
+"285" "Carex caryophyllea Latourr." "p15-2009" "absent" 0
+"286" "Carex caryophyllea Latourr." "p1-2019" "absent" 0
+"287" "Carex caryophyllea Latourr." "p2-2019" "present" 1
+"288" "Carex caryophyllea Latourr." "p3-2019" "absent" 0
+"289" "Carex caryophyllea Latourr." "p4-2019" "present" 1
+"290" "Carex caryophyllea Latourr." "p5-2019" "absent" 0
+"291" "Carex caryophyllea Latourr." "p6-2019" "absent" 0
+"292" "Carex caryophyllea Latourr." "p7-2019" "present" 1
+"293" "Carex caryophyllea Latourr." "p8-2019" "present" 1
+"294" "Carex caryophyllea Latourr." "p9-2019" "present" 1
+"295" "Carex caryophyllea Latourr." "p10-2019" "present" 1
+"296" "Carex caryophyllea Latourr." "p11-2019" "present" 1
+"297" "Carex caryophyllea Latourr." "p12-2019" "present" 1
+"298" "Carex caryophyllea Latourr." "p13-2019" "absent" 0
+"299" "Carex caryophyllea Latourr." "p14-2019" "absent" 0
+"300" "Carex caryophyllea Latourr." "p15-2019" "absent" 0
+"301" "Carex caryophyllea Latourr." "p1-2020" "present" 1
+"302" "Carex caryophyllea Latourr." "p2-2020" "present" 1
+"303" "Carex caryophyllea Latourr." "p3-2020" "absent" 0
+"304" "Carex caryophyllea Latourr." "p4-2020" "present" 1
+"305" "Carex caryophyllea Latourr." "p5-2020" "present" 1
+"306" "Carex caryophyllea Latourr." "p6-2020" "present" 1
+"307" "Carex caryophyllea Latourr." "p7-2020" "present" 1
+"308" "Carex caryophyllea Latourr." "p8-2020" "present" 1
+"309" "Carex caryophyllea Latourr." "p9-2020" "absent" 0
+"310" "Carex caryophyllea Latourr." "p10-2020" "present" 1
+"311" "Carex caryophyllea Latourr." "p11-2020" "present" 1
+"312" "Carex caryophyllea Latourr." "p12-2020" "absent" 0
+"313" "Carex caryophyllea Latourr." "p13-2020" "present" 1
+"314" "Carex caryophyllea Latourr." "p14-2020" "absent" 0
+"315" "Carex caryophyllea Latourr." "p15-2020" "absent" 0
+"316" "Carlina vulgaris L." "p1-2009" "present" 1
+"317" "Carlina vulgaris L." "p2-2009" "present" 1
+"318" "Carlina vulgaris L." "p3-2009" "present" 1
+"319" "Carlina vulgaris L." "p4-2009" "present" 1
+"320" "Carlina vulgaris L." "p5-2009" "present" 1
+"321" "Carlina vulgaris L." "p6-2009" "present" 1
+"322" "Carlina vulgaris L." "p7-2009" "absent" 0
+"323" "Carlina vulgaris L." "p8-2009" "present" 1
+"324" "Carlina vulgaris L." "p9-2009" "present" 1
+"325" "Carlina vulgaris L." "p10-2009" "present" 1
+"326" "Carlina vulgaris L." "p11-2009" "absent" 0
+"327" "Carlina vulgaris L." "p12-2009" "present" 1
+"328" "Carlina vulgaris L." "p13-2009" "present" 1
+"329" "Carlina vulgaris L." "p14-2009" "present" 1
+"330" "Carlina vulgaris L." "p15-2009" "present" 1
+"331" "Carlina vulgaris L." "p1-2019" "present" 1
+"332" "Carlina vulgaris L." "p2-2019" "present" 1
+"333" "Carlina vulgaris L." "p3-2019" "present" 1
+"334" "Carlina vulgaris L." "p4-2019" "present" 1
+"335" "Carlina vulgaris L." "p5-2019" "present" 1
+"336" "Carlina vulgaris L." "p6-2019" "present" 1
+"337" "Carlina vulgaris L." "p7-2019" "absent" 0
+"338" "Carlina vulgaris L." "p8-2019" "present" 1
+"339" "Carlina vulgaris L." "p9-2019" "present" 1
+"340" "Carlina vulgaris L." "p10-2019" "present" 1
+"341" "Carlina vulgaris L." "p11-2019" "absent" 0
+"342" "Carlina vulgaris L." "p12-2019" "present" 1
+"343" "Carlina vulgaris L." "p13-2019" "present" 1
+"344" "Carlina vulgaris L." "p14-2019" "present" 1
+"345" "Carlina vulgaris L." "p15-2019" "present" 1
+"346" "Carlina vulgaris L." "p1-2020" "absent" 0
+"347" "Carlina vulgaris L." "p2-2020" "present" 1
+"348" "Carlina vulgaris L." "p3-2020" "present" 1
+"349" "Carlina vulgaris L." "p4-2020" "present" 1
+"350" "Carlina vulgaris L." "p5-2020" "present" 1
+"351" "Carlina vulgaris L." "p6-2020" "present" 1
+"352" "Carlina vulgaris L." "p7-2020" "absent" 0
+"353" "Carlina vulgaris L." "p8-2020" "present" 1
+"354" "Carlina vulgaris L." "p9-2020" "present" 1
+"355" "Carlina vulgaris L." "p10-2020" "present" 1
+"356" "Carlina vulgaris L." "p11-2020" "absent" 0
+"357" "Carlina vulgaris L." "p12-2020" "present" 1
+"358" "Carlina vulgaris L." "p13-2020" "present" 1
+"359" "Carlina vulgaris L." "p14-2020" "present" 1
+"360" "Carlina vulgaris L." "p15-2020" "present" 1
+"361" "Centaurea scabiosa L." "p1-2009" "absent" 0
+"362" "Centaurea scabiosa L." "p2-2009" "absent" 0
+"363" "Centaurea scabiosa L." "p3-2009" "absent" 0
+"364" "Centaurea scabiosa L." "p4-2009" "absent" 0
+"365" "Centaurea scabiosa L." "p5-2009" "absent" 0
+"366" "Centaurea scabiosa L." "p6-2009" "absent" 0
+"367" "Centaurea scabiosa L." "p7-2009" "absent" 0
+"368" "Centaurea scabiosa L." "p8-2009" "absent" 0
+"369" "Centaurea scabiosa L." "p9-2009" "absent" 0
+"370" "Centaurea scabiosa L." "p10-2009" "absent" 0
+"371" "Centaurea scabiosa L." "p11-2009" "absent" 0
+"372" "Centaurea scabiosa L." "p12-2009" "absent" 0
+"373" "Centaurea scabiosa L." "p13-2009" "absent" 0
+"374" "Centaurea scabiosa L." "p14-2009" "absent" 0
+"375" "Centaurea scabiosa L." "p15-2009" "absent" 0
+"376" "Centaurea scabiosa L." "p1-2019" "absent" 0
+"377" "Centaurea scabiosa L." "p2-2019" "absent" 0
+"378" "Centaurea scabiosa L." "p3-2019" "absent" 0
+"379" "Centaurea scabiosa L." "p4-2019" "absent" 0
+"380" "Centaurea scabiosa L." "p5-2019" "absent" 0
+"381" "Centaurea scabiosa L." "p6-2019" "absent" 0
+"382" "Centaurea scabiosa L." "p7-2019" "absent" 0
+"383" "Centaurea scabiosa L." "p8-2019" "absent" 0
+"384" "Centaurea scabiosa L." "p9-2019" "absent" 0
+"385" "Centaurea scabiosa L." "p10-2019" "absent" 0
+"386" "Centaurea scabiosa L." "p11-2019" "absent" 0
+"387" "Centaurea scabiosa L." "p12-2019" "absent" 0
+"388" "Centaurea scabiosa L." "p13-2019" "absent" 0
+"389" "Centaurea scabiosa L." "p14-2019" "absent" 0
+"390" "Centaurea scabiosa L." "p15-2019" "absent" 0
+"391" "Centaurea scabiosa L." "p1-2020" "absent" 0
+"392" "Centaurea scabiosa L." "p2-2020" "absent" 0
+"393" "Centaurea scabiosa L." "p3-2020" "absent" 0
+"394" "Centaurea scabiosa L." "p4-2020" "absent" 0
+"395" "Centaurea scabiosa L." "p5-2020" "absent" 0
+"396" "Centaurea scabiosa L." "p6-2020" "absent" 0
+"397" "Centaurea scabiosa L." "p7-2020" "absent" 0
+"398" "Centaurea scabiosa L." "p8-2020" "absent" 0
+"399" "Centaurea scabiosa L." "p9-2020" "absent" 0
+"400" "Centaurea scabiosa L." "p10-2020" "absent" 0
+"401" "Centaurea scabiosa L." "p11-2020" "absent" 0
+"402" "Centaurea scabiosa L." "p12-2020" "absent" 0
+"403" "Centaurea scabiosa L." "p13-2020" "absent" 0
+"404" "Centaurea scabiosa L." "p14-2020" "absent" 0
+"405" "Centaurea scabiosa L." "p15-2020" "absent" 0
+"406" "Cerastium semidecandrum L." "p1-2009" "absent" 0
+"407" "Cerastium semidecandrum L." "p2-2009" "absent" 0
+"408" "Cerastium semidecandrum L." "p3-2009" "absent" 0
+"409" "Cerastium semidecandrum L." "p4-2009" "present" 1
+"410" "Cerastium semidecandrum L." "p5-2009" "absent" 0
+"411" "Cerastium semidecandrum L." "p6-2009" "absent" 0
+"412" "Cerastium semidecandrum L." "p7-2009" "present" 1
+"413" "Cerastium semidecandrum L." "p8-2009" "present" 1
+"414" "Cerastium semidecandrum L." "p9-2009" "present" 1
+"415" "Cerastium semidecandrum L." "p10-2009" "present" 1
+"416" "Cerastium semidecandrum L." "p11-2009" "absent" 0
+"417" "Cerastium semidecandrum L." "p12-2009" "absent" 0
+"418" "Cerastium semidecandrum L." "p13-2009" "present" 1
+"419" "Cerastium semidecandrum L." "p14-2009" "absent" 0
+"420" "Cerastium semidecandrum L." "p15-2009" "absent" 0
+"421" "Cerastium semidecandrum L." "p1-2019" "absent" 0
+"422" "Cerastium semidecandrum L." "p2-2019" "absent" 0
+"423" "Cerastium semidecandrum L." "p3-2019" "absent" 0
+"424" "Cerastium semidecandrum L." "p4-2019" "absent" 0
+"425" "Cerastium semidecandrum L." "p5-2019" "absent" 0
+"426" "Cerastium semidecandrum L." "p6-2019" "present" 1
+"427" "Cerastium semidecandrum L." "p7-2019" "absent" 0
+"428" "Cerastium semidecandrum L." "p8-2019" "absent" 0
+"429" "Cerastium semidecandrum L." "p9-2019" "absent" 0
+"430" "Cerastium semidecandrum L." "p10-2019" "absent" 0
+"431" "Cerastium semidecandrum L." "p11-2019" "absent" 0
+"432" "Cerastium semidecandrum L." "p12-2019" "absent" 0
+"433" "Cerastium semidecandrum L." "p13-2019" "absent" 0
+"434" "Cerastium semidecandrum L." "p14-2019" "absent" 0
+"435" "Cerastium semidecandrum L." "p15-2019" "absent" 0
+"436" "Cerastium semidecandrum L." "p1-2020" "present" 1
+"437" "Cerastium semidecandrum L." "p2-2020" "present" 1
+"438" "Cerastium semidecandrum L." "p3-2020" "absent" 0
+"439" "Cerastium semidecandrum L." "p4-2020" "present" 1
+"440" "Cerastium semidecandrum L." "p5-2020" "present" 1
+"441" "Cerastium semidecandrum L." "p6-2020" "present" 1
+"442" "Cerastium semidecandrum L." "p7-2020" "present" 1
+"443" "Cerastium semidecandrum L." "p8-2020" "present" 1
+"444" "Cerastium semidecandrum L." "p9-2020" "present" 1
+"445" "Cerastium semidecandrum L." "p10-2020" "present" 1
+"446" "Cerastium semidecandrum L." "p11-2020" "absent" 0
+"447" "Cerastium semidecandrum L." "p12-2020" "absent" 0
+"448" "Cerastium semidecandrum L." "p13-2020" "present" 1
+"449" "Cerastium semidecandrum L." "p14-2020" "present" 1
+"450" "Cerastium semidecandrum L." "p15-2020" "present" 1
+"451" "Cotoneaster integerrimus Medik." "p1-2009" "present" 1
+"452" "Cotoneaster integerrimus Medik." "p2-2009" "present" 1
+"453" "Cotoneaster integerrimus Medik." "p3-2009" "present" 1
+"454" "Cotoneaster integerrimus Medik." "p4-2009" "present" 1
+"455" "Cotoneaster integerrimus Medik." "p5-2009" "present" 1
+"456" "Cotoneaster integerrimus Medik." "p6-2009" "absent" 0
+"457" "Cotoneaster integerrimus Medik." "p7-2009" "present" 1
+"458" "Cotoneaster integerrimus Medik." "p8-2009" "present" 1
+"459" "Cotoneaster integerrimus Medik." "p9-2009" "absent" 0
+"460" "Cotoneaster integerrimus Medik." "p10-2009" "present" 1
+"461" "Cotoneaster integerrimus Medik." "p11-2009" "present" 1
+"462" "Cotoneaster integerrimus Medik." "p12-2009" "present" 1
+"463" "Cotoneaster integerrimus Medik." "p13-2009" "present" 1
+"464" "Cotoneaster integerrimus Medik." "p14-2009" "absent" 0
+"465" "Cotoneaster integerrimus Medik." "p15-2009" "present" 1
+"466" "Cotoneaster integerrimus Medik." "p1-2019" "present" 1
+"467" "Cotoneaster integerrimus Medik." "p2-2019" "present" 1
+"468" "Cotoneaster integerrimus Medik." "p3-2019" "present" 1
+"469" "Cotoneaster integerrimus Medik." "p4-2019" "present" 1
+"470" "Cotoneaster integerrimus Medik." "p5-2019" "present" 1
+"471" "Cotoneaster integerrimus Medik." "p6-2019" "absent" 0
+"472" "Cotoneaster integerrimus Medik." "p7-2019" "present" 1
+"473" "Cotoneaster integerrimus Medik." "p8-2019" "present" 1
+"474" "Cotoneaster integerrimus Medik." "p9-2019" "present" 1
+"475" "Cotoneaster integerrimus Medik." "p10-2019" "present" 1
+"476" "Cotoneaster integerrimus Medik." "p11-2019" "present" 1
+"477" "Cotoneaster integerrimus Medik." "p12-2019" "present" 1
+"478" "Cotoneaster integerrimus Medik." "p13-2019" "present" 1
+"479" "Cotoneaster integerrimus Medik." "p14-2019" "present" 1
+"480" "Cotoneaster integerrimus Medik." "p15-2019" "present" 1
+"481" "Cotoneaster integerrimus Medik." "p1-2020" "absent" 0
+"482" "Cotoneaster integerrimus Medik." "p2-2020" "present" 1
+"483" "Cotoneaster integerrimus Medik." "p3-2020" "present" 1
+"484" "Cotoneaster integerrimus Medik." "p4-2020" "present" 1
+"485" "Cotoneaster integerrimus Medik." "p5-2020" "present" 1
+"486" "Cotoneaster integerrimus Medik." "p6-2020" "present" 1
+"487" "Cotoneaster integerrimus Medik." "p7-2020" "present" 1
+"488" "Cotoneaster integerrimus Medik." "p8-2020" "present" 1
+"489" "Cotoneaster integerrimus Medik." "p9-2020" "present" 1
+"490" "Cotoneaster integerrimus Medik." "p10-2020" "present" 1
+"491" "Cotoneaster integerrimus Medik." "p11-2020" "present" 1
+"492" "Cotoneaster integerrimus Medik." "p12-2020" "present" 1
+"493" "Cotoneaster integerrimus Medik." "p13-2020" "present" 1
+"494" "Cotoneaster integerrimus Medik." "p14-2020" "present" 1
+"495" "Cotoneaster integerrimus Medik." "p15-2020" "present" 1
+"496" "Cotoneaster niger (Fr.) Fr." "p1-2009" "present" 1
+"497" "Cotoneaster niger (Fr.) Fr." "p2-2009" "present" 1
+"498" "Cotoneaster niger (Fr.) Fr." "p3-2009" "absent" 0
+"499" "Cotoneaster niger (Fr.) Fr." "p4-2009" "absent" 0
+"500" "Cotoneaster niger (Fr.) Fr." "p5-2009" "present" 1
+"501" "Cotoneaster niger (Fr.) Fr." "p6-2009" "present" 1
+"502" "Cotoneaster niger (Fr.) Fr." "p7-2009" "absent" 0
+"503" "Cotoneaster niger (Fr.) Fr." "p8-2009" "absent" 0
+"504" "Cotoneaster niger (Fr.) Fr." "p9-2009" "absent" 0
+"505" "Cotoneaster niger (Fr.) Fr." "p10-2009" "absent" 0
+"506" "Cotoneaster niger (Fr.) Fr." "p11-2009" "absent" 0
+"507" "Cotoneaster niger (Fr.) Fr." "p12-2009" "absent" 0
+"508" "Cotoneaster niger (Fr.) Fr." "p13-2009" "absent" 0
+"509" "Cotoneaster niger (Fr.) Fr." "p14-2009" "present" 1
+"510" "Cotoneaster niger (Fr.) Fr." "p15-2009" "absent" 0
+"511" "Cotoneaster niger (Fr.) Fr." "p1-2019" "present" 1
+"512" "Cotoneaster niger (Fr.) Fr." "p2-2019" "present" 1
+"513" "Cotoneaster niger (Fr.) Fr." "p3-2019" "absent" 0
+"514" "Cotoneaster niger (Fr.) Fr." "p4-2019" "present" 1
+"515" "Cotoneaster niger (Fr.) Fr." "p5-2019" "present" 1
+"516" "Cotoneaster niger (Fr.) Fr." "p6-2019" "absent" 0
+"517" "Cotoneaster niger (Fr.) Fr." "p7-2019" "present" 1
+"518" "Cotoneaster niger (Fr.) Fr." "p8-2019" "present" 1
+"519" "Cotoneaster niger (Fr.) Fr." "p9-2019" "present" 1
+"520" "Cotoneaster niger (Fr.) Fr." "p10-2019" "present" 1
+"521" "Cotoneaster niger (Fr.) Fr." "p11-2019" "absent" 0
+"522" "Cotoneaster niger (Fr.) Fr." "p12-2019" "present" 1
+"523" "Cotoneaster niger (Fr.) Fr." "p13-2019" "present" 1
+"524" "Cotoneaster niger (Fr.) Fr." "p14-2019" "present" 1
+"525" "Cotoneaster niger (Fr.) Fr." "p15-2019" "present" 1
+"526" "Cotoneaster niger (Fr.) Fr." "p1-2020" "present" 1
+"527" "Cotoneaster niger (Fr.) Fr." "p2-2020" "present" 1
+"528" "Cotoneaster niger (Fr.) Fr." "p3-2020" "absent" 0
+"529" "Cotoneaster niger (Fr.) Fr." "p4-2020" "present" 1
+"530" "Cotoneaster niger (Fr.) Fr." "p5-2020" "present" 1
+"531" "Cotoneaster niger (Fr.) Fr." "p6-2020" "absent" 0
+"532" "Cotoneaster niger (Fr.) Fr." "p7-2020" "present" 1
+"533" "Cotoneaster niger (Fr.) Fr." "p8-2020" "present" 1
+"534" "Cotoneaster niger (Fr.) Fr." "p9-2020" "present" 1
+"535" "Cotoneaster niger (Fr.) Fr." "p10-2020" "present" 1
+"536" "Cotoneaster niger (Fr.) Fr." "p11-2020" "absent" 0
+"537" "Cotoneaster niger (Fr.) Fr." "p12-2020" "present" 1
+"538" "Cotoneaster niger (Fr.) Fr." "p13-2020" "present" 1
+"539" "Cotoneaster niger (Fr.) Fr." "p14-2020" "present" 1
+"540" "Cotoneaster niger (Fr.) Fr." "p15-2020" "present" 1
+"541" "Cynoglossum officinale L." "p1-2009" "absent" 0
+"542" "Cynoglossum officinale L." "p2-2009" "absent" 0
+"543" "Cynoglossum officinale L." "p3-2009" "absent" 0
+"544" "Cynoglossum officinale L." "p4-2009" "present" 1
+"545" "Cynoglossum officinale L." "p5-2009" "present" 1
+"546" "Cynoglossum officinale L." "p6-2009" "absent" 0
+"547" "Cynoglossum officinale L." "p7-2009" "absent" 0
+"548" "Cynoglossum officinale L." "p8-2009" "present" 1
+"549" "Cynoglossum officinale L." "p9-2009" "present" 1
+"550" "Cynoglossum officinale L." "p10-2009" "present" 1
+"551" "Cynoglossum officinale L." "p11-2009" "present" 1
+"552" "Cynoglossum officinale L." "p12-2009" "absent" 0
+"553" "Cynoglossum officinale L." "p13-2009" "present" 1
+"554" "Cynoglossum officinale L." "p14-2009" "present" 1
+"555" "Cynoglossum officinale L." "p15-2009" "present" 1
+"556" "Cynoglossum officinale L." "p1-2019" "absent" 0
+"557" "Cynoglossum officinale L." "p2-2019" "absent" 0
+"558" "Cynoglossum officinale L." "p3-2019" "absent" 0
+"559" "Cynoglossum officinale L." "p4-2019" "absent" 0
+"560" "Cynoglossum officinale L." "p5-2019" "absent" 0
+"561" "Cynoglossum officinale L." "p6-2019" "present" 1
+"562" "Cynoglossum officinale L." "p7-2019" "present" 1
+"563" "Cynoglossum officinale L." "p8-2019" "absent" 0
+"564" "Cynoglossum officinale L." "p9-2019" "absent" 0
+"565" "Cynoglossum officinale L." "p10-2019" "present" 1
+"566" "Cynoglossum officinale L." "p11-2019" "absent" 0
+"567" "Cynoglossum officinale L." "p12-2019" "absent" 0
+"568" "Cynoglossum officinale L." "p13-2019" "present" 1
+"569" "Cynoglossum officinale L." "p14-2019" "absent" 0
+"570" "Cynoglossum officinale L." "p15-2019" "present" 1
+"571" "Cynoglossum officinale L." "p1-2020" "absent" 0
+"572" "Cynoglossum officinale L." "p2-2020" "absent" 0
+"573" "Cynoglossum officinale L." "p3-2020" "absent" 0
+"574" "Cynoglossum officinale L." "p4-2020" "present" 1
+"575" "Cynoglossum officinale L." "p5-2020" "absent" 0
+"576" "Cynoglossum officinale L." "p6-2020" "present" 1
+"577" "Cynoglossum officinale L." "p7-2020" "present" 1
+"578" "Cynoglossum officinale L." "p8-2020" "absent" 0
+"579" "Cynoglossum officinale L." "p9-2020" "absent" 0
+"580" "Cynoglossum officinale L." "p10-2020" "present" 1
+"581" "Cynoglossum officinale L." "p11-2020" "absent" 0
+"582" "Cynoglossum officinale L." "p12-2020" "absent" 0
+"583" "Cynoglossum officinale L." "p13-2020" "present" 1
+"584" "Cynoglossum officinale L." "p14-2020" "absent" 0
+"585" "Cynoglossum officinale L." "p15-2020" "present" 1
+"586" "Draba verna L." "p1-2009" "present" 1
+"587" "Draba verna L." "p2-2009" "present" 1
+"588" "Draba verna L." "p3-2009" "absent" 0
+"589" "Draba verna L." "p4-2009" "present" 1
+"590" "Draba verna L." "p5-2009" "absent" 0
+"591" "Draba verna L." "p6-2009" "present" 1
+"592" "Draba verna L." "p7-2009" "present" 1
+"593" "Draba verna L." "p8-2009" "present" 1
+"594" "Draba verna L." "p9-2009" "present" 1
+"595" "Draba verna L." "p10-2009" "present" 1
+"596" "Draba verna L." "p11-2009" "absent" 0
+"597" "Draba verna L." "p12-2009" "absent" 0
+"598" "Draba verna L." "p13-2009" "present" 1
+"599" "Draba verna L." "p14-2009" "absent" 0
+"600" "Draba verna L." "p15-2009" "absent" 0
+"601" "Draba verna L." "p1-2019" "present" 1
+"602" "Draba verna L." "p2-2019" "absent" 0
+"603" "Draba verna L." "p3-2019" "absent" 0
+"604" "Draba verna L." "p4-2019" "absent" 0
+"605" "Draba verna L." "p5-2019" "absent" 0
+"606" "Draba verna L." "p6-2019" "absent" 0
+"607" "Draba verna L." "p7-2019" "absent" 0
+"608" "Draba verna L." "p8-2019" "absent" 0
+"609" "Draba verna L." "p9-2019" "absent" 0
+"610" "Draba verna L." "p10-2019" "absent" 0
+"611" "Draba verna L." "p11-2019" "absent" 0
+"612" "Draba verna L." "p12-2019" "absent" 0
+"613" "Draba verna L." "p13-2019" "absent" 0
+"614" "Draba verna L." "p14-2019" "absent" 0
+"615" "Draba verna L." "p15-2019" "absent" 0
+"616" "Draba verna L." "p1-2020" "present" 1
+"617" "Draba verna L." "p2-2020" "absent" 0
+"618" "Draba verna L." "p3-2020" "absent" 0
+"619" "Draba verna L." "p4-2020" "present" 1
+"620" "Draba verna L." "p5-2020" "absent" 0
+"621" "Draba verna L." "p6-2020" "absent" 0
+"622" "Draba verna L." "p7-2020" "present" 1
+"623" "Draba verna L." "p8-2020" "absent" 0
+"624" "Draba verna L." "p9-2020" "absent" 0
+"625" "Draba verna L." "p10-2020" "absent" 0
+"626" "Draba verna L." "p11-2020" "absent" 0
+"627" "Draba verna L." "p12-2020" "absent" 0
+"628" "Draba verna L." "p13-2020" "absent" 0
+"629" "Draba verna L." "p14-2020" "absent" 0
+"630" "Draba verna L." "p15-2020" "present" 1
+"631" "Dracocephalum ruyschiana L." "p1-2009" "absent" 0
+"632" "Dracocephalum ruyschiana L." "p2-2009" "absent" 0
+"633" "Dracocephalum ruyschiana L." "p3-2009" "absent" 0
+"634" "Dracocephalum ruyschiana L." "p4-2009" "absent" 0
+"635" "Dracocephalum ruyschiana L." "p5-2009" "absent" 0
+"636" "Dracocephalum ruyschiana L." "p6-2009" "absent" 0
+"637" "Dracocephalum ruyschiana L." "p7-2009" "absent" 0
+"638" "Dracocephalum ruyschiana L." "p8-2009" "absent" 0
+"639" "Dracocephalum ruyschiana L." "p9-2009" "absent" 0
+"640" "Dracocephalum ruyschiana L." "p10-2009" "absent" 0
+"641" "Dracocephalum ruyschiana L." "p11-2009" "absent" 0
+"642" "Dracocephalum ruyschiana L." "p12-2009" "absent" 0
+"643" "Dracocephalum ruyschiana L." "p13-2009" "absent" 0
+"644" "Dracocephalum ruyschiana L." "p14-2009" "absent" 0
+"645" "Dracocephalum ruyschiana L." "p15-2009" "absent" 0
+"646" "Dracocephalum ruyschiana L." "p1-2019" "absent" 0
+"647" "Dracocephalum ruyschiana L." "p2-2019" "absent" 0
+"648" "Dracocephalum ruyschiana L." "p3-2019" "absent" 0
+"649" "Dracocephalum ruyschiana L." "p4-2019" "absent" 0
+"650" "Dracocephalum ruyschiana L." "p5-2019" "absent" 0
+"651" "Dracocephalum ruyschiana L." "p6-2019" "absent" 0
+"652" "Dracocephalum ruyschiana L." "p7-2019" "absent" 0
+"653" "Dracocephalum ruyschiana L." "p8-2019" "absent" 0
+"654" "Dracocephalum ruyschiana L." "p9-2019" "absent" 0
+"655" "Dracocephalum ruyschiana L." "p10-2019" "absent" 0
+"656" "Dracocephalum ruyschiana L." "p11-2019" "absent" 0
+"657" "Dracocephalum ruyschiana L." "p12-2019" "absent" 0
+"658" "Dracocephalum ruyschiana L." "p13-2019" "absent" 0
+"659" "Dracocephalum ruyschiana L." "p14-2019" "absent" 0
+"660" "Dracocephalum ruyschiana L." "p15-2019" "present" 1
+"661" "Dracocephalum ruyschiana L." "p1-2020" "absent" 0
+"662" "Dracocephalum ruyschiana L." "p2-2020" "absent" 0
+"663" "Dracocephalum ruyschiana L." "p3-2020" "absent" 0
+"664" "Dracocephalum ruyschiana L." "p4-2020" "absent" 0
+"665" "Dracocephalum ruyschiana L." "p5-2020" "absent" 0
+"666" "Dracocephalum ruyschiana L." "p6-2020" "absent" 0
+"667" "Dracocephalum ruyschiana L." "p7-2020" "absent" 0
+"668" "Dracocephalum ruyschiana L." "p8-2020" "absent" 0
+"669" "Dracocephalum ruyschiana L." "p9-2020" "absent" 0
+"670" "Dracocephalum ruyschiana L." "p10-2020" "absent" 0
+"671" "Dracocephalum ruyschiana L." "p11-2020" "absent" 0
+"672" "Dracocephalum ruyschiana L." "p12-2020" "absent" 0
+"673" "Dracocephalum ruyschiana L." "p13-2020" "absent" 0
+"674" "Dracocephalum ruyschiana L." "p14-2020" "absent" 0
+"675" "Dracocephalum ruyschiana L." "p15-2020" "present" 1
+"676" "Echium vulgare L." "p1-2009" "present" 1
+"677" "Echium vulgare L." "p2-2009" "present" 1
+"678" "Echium vulgare L." "p3-2009" "present" 1
+"679" "Echium vulgare L." "p4-2009" "present" 1
+"680" "Echium vulgare L." "p5-2009" "present" 1
+"681" "Echium vulgare L." "p6-2009" "present" 1
+"682" "Echium vulgare L." "p7-2009" "present" 1
+"683" "Echium vulgare L." "p8-2009" "present" 1
+"684" "Echium vulgare L." "p9-2009" "present" 1
+"685" "Echium vulgare L." "p10-2009" "present" 1
+"686" "Echium vulgare L." "p11-2009" "present" 1
+"687" "Echium vulgare L." "p12-2009" "present" 1
+"688" "Echium vulgare L." "p13-2009" "present" 1
+"689" "Echium vulgare L." "p14-2009" "present" 1
+"690" "Echium vulgare L." "p15-2009" "absent" 0
+"691" "Echium vulgare L." "p1-2019" "present" 1
+"692" "Echium vulgare L." "p2-2019" "present" 1
+"693" "Echium vulgare L." "p3-2019" "present" 1
+"694" "Echium vulgare L." "p4-2019" "present" 1
+"695" "Echium vulgare L." "p5-2019" "present" 1
+"696" "Echium vulgare L." "p6-2019" "present" 1
+"697" "Echium vulgare L." "p7-2019" "present" 1
+"698" "Echium vulgare L." "p8-2019" "present" 1
+"699" "Echium vulgare L." "p9-2019" "present" 1
+"700" "Echium vulgare L." "p10-2019" "present" 1
+"701" "Echium vulgare L." "p11-2019" "present" 1
+"702" "Echium vulgare L." "p12-2019" "present" 1
+"703" "Echium vulgare L." "p13-2019" "present" 1
+"704" "Echium vulgare L." "p14-2019" "present" 1
+"705" "Echium vulgare L." "p15-2019" "present" 1
+"706" "Echium vulgare L." "p1-2020" "present" 1
+"707" "Echium vulgare L." "p2-2020" "present" 1
+"708" "Echium vulgare L." "p3-2020" "present" 1
+"709" "Echium vulgare L." "p4-2020" "present" 1
+"710" "Echium vulgare L." "p5-2020" "present" 1
+"711" "Echium vulgare L." "p6-2020" "present" 1
+"712" "Echium vulgare L." "p7-2020" "present" 1
+"713" "Echium vulgare L." "p8-2020" "present" 1
+"714" "Echium vulgare L." "p9-2020" "present" 1
+"715" "Echium vulgare L." "p10-2020" "present" 1
+"716" "Echium vulgare L." "p11-2020" "present" 1
+"717" "Echium vulgare L." "p12-2020" "present" 1
+"718" "Echium vulgare L." "p13-2020" "present" 1
+"719" "Echium vulgare L." "p14-2020" "present" 1
+"720" "Echium vulgare L." "p15-2020" "present" 1
+"721" "Epipactis atrorubens (Hoffm.) Besser" "p1-2009" "absent" 0
+"722" "Epipactis atrorubens (Hoffm.) Besser" "p2-2009" "absent" 0
+"723" "Epipactis atrorubens (Hoffm.) Besser" "p3-2009" "absent" 0
+"724" "Epipactis atrorubens (Hoffm.) Besser" "p4-2009" "absent" 0
+"725" "Epipactis atrorubens (Hoffm.) Besser" "p5-2009" "absent" 0
+"726" "Epipactis atrorubens (Hoffm.) Besser" "p6-2009" "absent" 0
+"727" "Epipactis atrorubens (Hoffm.) Besser" "p7-2009" "absent" 0
+"728" "Epipactis atrorubens (Hoffm.) Besser" "p8-2009" "absent" 0
+"729" "Epipactis atrorubens (Hoffm.) Besser" "p9-2009" "absent" 0
+"730" "Epipactis atrorubens (Hoffm.) Besser" "p10-2009" "absent" 0
+"731" "Epipactis atrorubens (Hoffm.) Besser" "p11-2009" "absent" 0
+"732" "Epipactis atrorubens (Hoffm.) Besser" "p12-2009" "absent" 0
+"733" "Epipactis atrorubens (Hoffm.) Besser" "p13-2009" "absent" 0
+"734" "Epipactis atrorubens (Hoffm.) Besser" "p14-2009" "absent" 0
+"735" "Epipactis atrorubens (Hoffm.) Besser" "p15-2009" "absent" 0
+"736" "Epipactis atrorubens (Hoffm.) Besser" "p1-2019" "absent" 0
+"737" "Epipactis atrorubens (Hoffm.) Besser" "p2-2019" "absent" 0
+"738" "Epipactis atrorubens (Hoffm.) Besser" "p3-2019" "present" 1
+"739" "Epipactis atrorubens (Hoffm.) Besser" "p4-2019" "present" 1
+"740" "Epipactis atrorubens (Hoffm.) Besser" "p5-2019" "absent" 0
+"741" "Epipactis atrorubens (Hoffm.) Besser" "p6-2019" "absent" 0
+"742" "Epipactis atrorubens (Hoffm.) Besser" "p7-2019" "absent" 0
+"743" "Epipactis atrorubens (Hoffm.) Besser" "p8-2019" "absent" 0
+"744" "Epipactis atrorubens (Hoffm.) Besser" "p9-2019" "absent" 0
+"745" "Epipactis atrorubens (Hoffm.) Besser" "p10-2019" "absent" 0
+"746" "Epipactis atrorubens (Hoffm.) Besser" "p11-2019" "absent" 0
+"747" "Epipactis atrorubens (Hoffm.) Besser" "p12-2019" "present" 1
+"748" "Epipactis atrorubens (Hoffm.) Besser" "p13-2019" "absent" 0
+"749" "Epipactis atrorubens (Hoffm.) Besser" "p14-2019" "absent" 0
+"750" "Epipactis atrorubens (Hoffm.) Besser" "p15-2019" "absent" 0
+"751" "Epipactis atrorubens (Hoffm.) Besser" "p1-2020" "absent" 0
+"752" "Epipactis atrorubens (Hoffm.) Besser" "p2-2020" "absent" 0
+"753" "Epipactis atrorubens (Hoffm.) Besser" "p3-2020" "present" 1
+"754" "Epipactis atrorubens (Hoffm.) Besser" "p4-2020" "absent" 0
+"755" "Epipactis atrorubens (Hoffm.) Besser" "p5-2020" "absent" 0
+"756" "Epipactis atrorubens (Hoffm.) Besser" "p6-2020" "absent" 0
+"757" "Epipactis atrorubens (Hoffm.) Besser" "p7-2020" "absent" 0
+"758" "Epipactis atrorubens (Hoffm.) Besser" "p8-2020" "absent" 0
+"759" "Epipactis atrorubens (Hoffm.) Besser" "p9-2020" "absent" 0
+"760" "Epipactis atrorubens (Hoffm.) Besser" "p10-2020" "absent" 0
+"761" "Epipactis atrorubens (Hoffm.) Besser" "p11-2020" "absent" 0
+"762" "Epipactis atrorubens (Hoffm.) Besser" "p12-2020" "present" 1
+"763" "Epipactis atrorubens (Hoffm.) Besser" "p13-2020" "absent" 0
+"764" "Epipactis atrorubens (Hoffm.) Besser" "p14-2020" "absent" 0
+"765" "Epipactis atrorubens (Hoffm.) Besser" "p15-2020" "absent" 0
+"766" "Erysimum strictum P.Gaertn." "p1-2009" "absent" 0
+"767" "Erysimum strictum P.Gaertn." "p2-2009" "absent" 0
+"768" "Erysimum strictum P.Gaertn." "p3-2009" "absent" 0
+"769" "Erysimum strictum P.Gaertn." "p4-2009" "absent" 0
+"770" "Erysimum strictum P.Gaertn." "p5-2009" "absent" 0
+"771" "Erysimum strictum P.Gaertn." "p6-2009" "absent" 0
+"772" "Erysimum strictum P.Gaertn." "p7-2009" "present" 1
+"773" "Erysimum strictum P.Gaertn." "p8-2009" "absent" 0
+"774" "Erysimum strictum P.Gaertn." "p9-2009" "absent" 0
+"775" "Erysimum strictum P.Gaertn." "p10-2009" "absent" 0
+"776" "Erysimum strictum P.Gaertn." "p11-2009" "absent" 0
+"777" "Erysimum strictum P.Gaertn." "p12-2009" "absent" 0
+"778" "Erysimum strictum P.Gaertn." "p13-2009" "absent" 0
+"779" "Erysimum strictum P.Gaertn." "p14-2009" "absent" 0
+"780" "Erysimum strictum P.Gaertn." "p15-2009" "absent" 0
+"781" "Erysimum strictum P.Gaertn." "p1-2019" "absent" 0
+"782" "Erysimum strictum P.Gaertn." "p2-2019" "absent" 0
+"783" "Erysimum strictum P.Gaertn." "p3-2019" "absent" 0
+"784" "Erysimum strictum P.Gaertn." "p4-2019" "absent" 0
+"785" "Erysimum strictum P.Gaertn." "p5-2019" "present" 1
+"786" "Erysimum strictum P.Gaertn." "p6-2019" "absent" 0
+"787" "Erysimum strictum P.Gaertn." "p7-2019" "absent" 0
+"788" "Erysimum strictum P.Gaertn." "p8-2019" "absent" 0
+"789" "Erysimum strictum P.Gaertn." "p9-2019" "absent" 0
+"790" "Erysimum strictum P.Gaertn." "p10-2019" "absent" 0
+"791" "Erysimum strictum P.Gaertn." "p11-2019" "absent" 0
+"792" "Erysimum strictum P.Gaertn." "p12-2019" "absent" 0
+"793" "Erysimum strictum P.Gaertn." "p13-2019" "absent" 0
+"794" "Erysimum strictum P.Gaertn." "p14-2019" "absent" 0
+"795" "Erysimum strictum P.Gaertn." "p15-2019" "absent" 0
+"796" "Erysimum strictum P.Gaertn." "p1-2020" "absent" 0
+"797" "Erysimum strictum P.Gaertn." "p2-2020" "absent" 0
+"798" "Erysimum strictum P.Gaertn." "p3-2020" "absent" 0
+"799" "Erysimum strictum P.Gaertn." "p4-2020" "present" 1
+"800" "Erysimum strictum P.Gaertn." "p5-2020" "present" 1
+"801" "Erysimum strictum P.Gaertn." "p6-2020" "absent" 0
+"802" "Erysimum strictum P.Gaertn." "p7-2020" "present" 1
+"803" "Erysimum strictum P.Gaertn." "p8-2020" "present" 1
+"804" "Erysimum strictum P.Gaertn." "p9-2020" "absent" 0
+"805" "Erysimum strictum P.Gaertn." "p10-2020" "absent" 0
+"806" "Erysimum strictum P.Gaertn." "p11-2020" "absent" 0
+"807" "Erysimum strictum P.Gaertn." "p12-2020" "absent" 0
+"808" "Erysimum strictum P.Gaertn." "p13-2020" "absent" 0
+"809" "Erysimum strictum P.Gaertn." "p14-2020" "absent" 0
+"810" "Erysimum strictum P.Gaertn." "p15-2020" "absent" 0
+"811" "Filipendula vulgaris Moench" "p1-2009" "present" 1
+"812" "Filipendula vulgaris Moench" "p2-2009" "present" 1
+"813" "Filipendula vulgaris Moench" "p3-2009" "absent" 0
+"814" "Filipendula vulgaris Moench" "p4-2009" "present" 1
+"815" "Filipendula vulgaris Moench" "p5-2009" "present" 1
+"816" "Filipendula vulgaris Moench" "p6-2009" "present" 1
+"817" "Filipendula vulgaris Moench" "p7-2009" "present" 1
+"818" "Filipendula vulgaris Moench" "p8-2009" "present" 1
+"819" "Filipendula vulgaris Moench" "p9-2009" "absent" 0
+"820" "Filipendula vulgaris Moench" "p10-2009" "absent" 0
+"821" "Filipendula vulgaris Moench" "p11-2009" "present" 1
+"822" "Filipendula vulgaris Moench" "p12-2009" "present" 1
+"823" "Filipendula vulgaris Moench" "p13-2009" "present" 1
+"824" "Filipendula vulgaris Moench" "p14-2009" "present" 1
+"825" "Filipendula vulgaris Moench" "p15-2009" "present" 1
+"826" "Filipendula vulgaris Moench" "p1-2019" "present" 1
+"827" "Filipendula vulgaris Moench" "p2-2019" "present" 1
+"828" "Filipendula vulgaris Moench" "p3-2019" "present" 1
+"829" "Filipendula vulgaris Moench" "p4-2019" "present" 1
+"830" "Filipendula vulgaris Moench" "p5-2019" "present" 1
+"831" "Filipendula vulgaris Moench" "p6-2019" "present" 1
+"832" "Filipendula vulgaris Moench" "p7-2019" "present" 1
+"833" "Filipendula vulgaris Moench" "p8-2019" "present" 1
+"834" "Filipendula vulgaris Moench" "p9-2019" "present" 1
+"835" "Filipendula vulgaris Moench" "p10-2019" "present" 1
+"836" "Filipendula vulgaris Moench" "p11-2019" "present" 1
+"837" "Filipendula vulgaris Moench" "p12-2019" "present" 1
+"838" "Filipendula vulgaris Moench" "p13-2019" "present" 1
+"839" "Filipendula vulgaris Moench" "p14-2019" "present" 1
+"840" "Filipendula vulgaris Moench" "p15-2019" "present" 1
+"841" "Filipendula vulgaris Moench" "p1-2020" "present" 1
+"842" "Filipendula vulgaris Moench" "p2-2020" "present" 1
+"843" "Filipendula vulgaris Moench" "p3-2020" "present" 1
+"844" "Filipendula vulgaris Moench" "p4-2020" "present" 1
+"845" "Filipendula vulgaris Moench" "p5-2020" "present" 1
+"846" "Filipendula vulgaris Moench" "p6-2020" "present" 1
+"847" "Filipendula vulgaris Moench" "p7-2020" "present" 1
+"848" "Filipendula vulgaris Moench" "p8-2020" "present" 1
+"849" "Filipendula vulgaris Moench" "p9-2020" "present" 1
+"850" "Filipendula vulgaris Moench" "p10-2020" "present" 1
+"851" "Filipendula vulgaris Moench" "p11-2020" "present" 1
+"852" "Filipendula vulgaris Moench" "p12-2020" "present" 1
+"853" "Filipendula vulgaris Moench" "p13-2020" "present" 1
+"854" "Filipendula vulgaris Moench" "p14-2020" "present" 1
+"855" "Filipendula vulgaris Moench" "p15-2020" "present" 1
+"856" "Fragaria viridis Duchesne" "p1-2009" "present" 1
+"857" "Fragaria viridis Duchesne" "p2-2009" "present" 1
+"858" "Fragaria viridis Duchesne" "p3-2009" "present" 1
+"859" "Fragaria viridis Duchesne" "p4-2009" "present" 1
+"860" "Fragaria viridis Duchesne" "p5-2009" "present" 1
+"861" "Fragaria viridis Duchesne" "p6-2009" "present" 1
+"862" "Fragaria viridis Duchesne" "p7-2009" "present" 1
+"863" "Fragaria viridis Duchesne" "p8-2009" "present" 1
+"864" "Fragaria viridis Duchesne" "p9-2009" "present" 1
+"865" "Fragaria viridis Duchesne" "p10-2009" "present" 1
+"866" "Fragaria viridis Duchesne" "p11-2009" "present" 1
+"867" "Fragaria viridis Duchesne" "p12-2009" "present" 1
+"868" "Fragaria viridis Duchesne" "p13-2009" "present" 1
+"869" "Fragaria viridis Duchesne" "p14-2009" "present" 1
+"870" "Fragaria viridis Duchesne" "p15-2009" "present" 1
+"871" "Fragaria viridis Duchesne" "p1-2019" "present" 1
+"872" "Fragaria viridis Duchesne" "p2-2019" "present" 1
+"873" "Fragaria viridis Duchesne" "p3-2019" "absent" 0
+"874" "Fragaria viridis Duchesne" "p4-2019" "present" 1
+"875" "Fragaria viridis Duchesne" "p5-2019" "present" 1
+"876" "Fragaria viridis Duchesne" "p6-2019" "present" 1
+"877" "Fragaria viridis Duchesne" "p7-2019" "present" 1
+"878" "Fragaria viridis Duchesne" "p8-2019" "present" 1
+"879" "Fragaria viridis Duchesne" "p9-2019" "present" 1
+"880" "Fragaria viridis Duchesne" "p10-2019" "present" 1
+"881" "Fragaria viridis Duchesne" "p11-2019" "present" 1
+"882" "Fragaria viridis Duchesne" "p12-2019" "present" 1
+"883" "Fragaria viridis Duchesne" "p13-2019" "present" 1
+"884" "Fragaria viridis Duchesne" "p14-2019" "present" 1
+"885" "Fragaria viridis Duchesne" "p15-2019" "present" 1
+"886" "Fragaria viridis Duchesne" "p1-2020" "present" 1
+"887" "Fragaria viridis Duchesne" "p2-2020" "present" 1
+"888" "Fragaria viridis Duchesne" "p3-2020" "absent" 0
+"889" "Fragaria viridis Duchesne" "p4-2020" "present" 1
+"890" "Fragaria viridis Duchesne" "p5-2020" "present" 1
+"891" "Fragaria viridis Duchesne" "p6-2020" "present" 1
+"892" "Fragaria viridis Duchesne" "p7-2020" "present" 1
+"893" "Fragaria viridis Duchesne" "p8-2020" "present" 1
+"894" "Fragaria viridis Duchesne" "p9-2020" "present" 1
+"895" "Fragaria viridis Duchesne" "p10-2020" "present" 1
+"896" "Fragaria viridis Duchesne" "p11-2020" "present" 1
+"897" "Fragaria viridis Duchesne" "p12-2020" "present" 1
+"898" "Fragaria viridis Duchesne" "p13-2020" "present" 1
+"899" "Fragaria viridis Duchesne" "p14-2020" "present" 1
+"900" "Fragaria viridis Duchesne" "p15-2020" "present" 1
+"901" "Geranium sanguineum L." "p1-2009" "present" 1
+"902" "Geranium sanguineum L." "p2-2009" "present" 1
+"903" "Geranium sanguineum L." "p3-2009" "present" 1
+"904" "Geranium sanguineum L." "p4-2009" "present" 1
+"905" "Geranium sanguineum L." "p5-2009" "present" 1
+"906" "Geranium sanguineum L." "p6-2009" "present" 1
+"907" "Geranium sanguineum L." "p7-2009" "present" 1
+"908" "Geranium sanguineum L." "p8-2009" "present" 1
+"909" "Geranium sanguineum L." "p9-2009" "present" 1
+"910" "Geranium sanguineum L." "p10-2009" "present" 1
+"911" "Geranium sanguineum L." "p11-2009" "present" 1
+"912" "Geranium sanguineum L." "p12-2009" "present" 1
+"913" "Geranium sanguineum L." "p13-2009" "present" 1
+"914" "Geranium sanguineum L." "p14-2009" "present" 1
+"915" "Geranium sanguineum L." "p15-2009" "present" 1
+"916" "Geranium sanguineum L." "p1-2019" "present" 1
+"917" "Geranium sanguineum L." "p2-2019" "present" 1
+"918" "Geranium sanguineum L." "p3-2019" "present" 1
+"919" "Geranium sanguineum L." "p4-2019" "present" 1
+"920" "Geranium sanguineum L." "p5-2019" "present" 1
+"921" "Geranium sanguineum L." "p6-2019" "present" 1
+"922" "Geranium sanguineum L." "p7-2019" "present" 1
+"923" "Geranium sanguineum L." "p8-2019" "present" 1
+"924" "Geranium sanguineum L." "p9-2019" "present" 1
+"925" "Geranium sanguineum L." "p10-2019" "present" 1
+"926" "Geranium sanguineum L." "p11-2019" "present" 1
+"927" "Geranium sanguineum L." "p12-2019" "present" 1
+"928" "Geranium sanguineum L." "p13-2019" "present" 1
+"929" "Geranium sanguineum L." "p14-2019" "present" 1
+"930" "Geranium sanguineum L." "p15-2019" "present" 1
+"931" "Geranium sanguineum L." "p1-2020" "present" 1
+"932" "Geranium sanguineum L." "p2-2020" "present" 1
+"933" "Geranium sanguineum L." "p3-2020" "present" 1
+"934" "Geranium sanguineum L." "p4-2020" "present" 1
+"935" "Geranium sanguineum L." "p5-2020" "present" 1
+"936" "Geranium sanguineum L." "p6-2020" "present" 1
+"937" "Geranium sanguineum L." "p7-2020" "present" 1
+"938" "Geranium sanguineum L." "p8-2020" "present" 1
+"939" "Geranium sanguineum L." "p9-2020" "present" 1
+"940" "Geranium sanguineum L." "p10-2020" "present" 1
+"941" "Geranium sanguineum L." "p11-2020" "present" 1
+"942" "Geranium sanguineum L." "p12-2020" "present" 1
+"943" "Geranium sanguineum L." "p13-2020" "present" 1
+"944" "Geranium sanguineum L." "p14-2020" "present" 1
+"945" "Geranium sanguineum L." "p15-2020" "present" 1
+"946" "Hypochaeris maculata L." "p1-2009" "present" 1
+"947" "Hypochaeris maculata L." "p2-2009" "present" 1
+"948" "Hypochaeris maculata L." "p3-2009" "absent" 0
+"949" "Hypochaeris maculata L." "p4-2009" "present" 1
+"950" "Hypochaeris maculata L." "p5-2009" "present" 1
+"951" "Hypochaeris maculata L." "p6-2009" "absent" 0
+"952" "Hypochaeris maculata L." "p7-2009" "absent" 0
+"953" "Hypochaeris maculata L." "p8-2009" "absent" 0
+"954" "Hypochaeris maculata L." "p9-2009" "absent" 0
+"955" "Hypochaeris maculata L." "p10-2009" "present" 1
+"956" "Hypochaeris maculata L." "p11-2009" "absent" 0
+"957" "Hypochaeris maculata L." "p12-2009" "present" 1
+"958" "Hypochaeris maculata L." "p13-2009" "absent" 0
+"959" "Hypochaeris maculata L." "p14-2009" "absent" 0
+"960" "Hypochaeris maculata L." "p15-2009" "absent" 0
+"961" "Hypochaeris maculata L." "p1-2019" "present" 1
+"962" "Hypochaeris maculata L." "p2-2019" "present" 1
+"963" "Hypochaeris maculata L." "p3-2019" "absent" 0
+"964" "Hypochaeris maculata L." "p4-2019" "present" 1
+"965" "Hypochaeris maculata L." "p5-2019" "present" 1
+"966" "Hypochaeris maculata L." "p6-2019" "absent" 0
+"967" "Hypochaeris maculata L." "p7-2019" "absent" 0
+"968" "Hypochaeris maculata L." "p8-2019" "present" 1
+"969" "Hypochaeris maculata L." "p9-2019" "absent" 0
+"970" "Hypochaeris maculata L." "p10-2019" "present" 1
+"971" "Hypochaeris maculata L." "p11-2019" "absent" 0
+"972" "Hypochaeris maculata L." "p12-2019" "present" 1
+"973" "Hypochaeris maculata L." "p13-2019" "absent" 0
+"974" "Hypochaeris maculata L." "p14-2019" "present" 1
+"975" "Hypochaeris maculata L." "p15-2019" "absent" 0
+"976" "Hypochaeris maculata L." "p1-2020" "present" 1
+"977" "Hypochaeris maculata L." "p2-2020" "present" 1
+"978" "Hypochaeris maculata L." "p3-2020" "absent" 0
+"979" "Hypochaeris maculata L." "p4-2020" "absent" 0
+"980" "Hypochaeris maculata L." "p5-2020" "absent" 0
+"981" "Hypochaeris maculata L." "p6-2020" "absent" 0
+"982" "Hypochaeris maculata L." "p7-2020" "absent" 0
+"983" "Hypochaeris maculata L." "p8-2020" "present" 1
+"984" "Hypochaeris maculata L." "p9-2020" "absent" 0
+"985" "Hypochaeris maculata L." "p10-2020" "present" 1
+"986" "Hypochaeris maculata L." "p11-2020" "absent" 0
+"987" "Hypochaeris maculata L." "p12-2020" "present" 1
+"988" "Hypochaeris maculata L." "p13-2020" "absent" 0
+"989" "Hypochaeris maculata L." "p14-2020" "present" 1
+"990" "Hypochaeris maculata L." "p15-2020" "absent" 0
+"991" "Inula salicina Pall." "p1-2009" "absent" 0
+"992" "Inula salicina Pall." "p2-2009" "absent" 0
+"993" "Inula salicina Pall." "p3-2009" "present" 1
+"994" "Inula salicina Pall." "p4-2009" "absent" 0
+"995" "Inula salicina Pall." "p5-2009" "absent" 0
+"996" "Inula salicina Pall." "p6-2009" "absent" 0
+"997" "Inula salicina Pall." "p7-2009" "absent" 0
+"998" "Inula salicina Pall." "p8-2009" "absent" 0
+"999" "Inula salicina Pall." "p9-2009" "absent" 0
+"1000" "Inula salicina Pall." "p10-2009" "absent" 0
+"1001" "Inula salicina Pall." "p11-2009" "absent" 0
+"1002" "Inula salicina Pall." "p12-2009" "absent" 0
+"1003" "Inula salicina Pall." "p13-2009" "absent" 0
+"1004" "Inula salicina Pall." "p14-2009" "absent" 0
+"1005" "Inula salicina Pall." "p15-2009" "absent" 0
+"1006" "Inula salicina Pall." "p1-2019" "absent" 0
+"1007" "Inula salicina Pall." "p2-2019" "absent" 0
+"1008" "Inula salicina Pall." "p3-2019" "absent" 0
+"1009" "Inula salicina Pall." "p4-2019" "absent" 0
+"1010" "Inula salicina Pall." "p5-2019" "absent" 0
+"1011" "Inula salicina Pall." "p6-2019" "absent" 0
+"1012" "Inula salicina Pall." "p7-2019" "absent" 0
+"1013" "Inula salicina Pall." "p8-2019" "absent" 0
+"1014" "Inula salicina Pall." "p9-2019" "absent" 0
+"1015" "Inula salicina Pall." "p10-2019" "absent" 0
+"1016" "Inula salicina Pall." "p11-2019" "absent" 0
+"1017" "Inula salicina Pall." "p12-2019" "absent" 0
+"1018" "Inula salicina Pall." "p13-2019" "absent" 0
+"1019" "Inula salicina Pall." "p14-2019" "absent" 0
+"1020" "Inula salicina Pall." "p15-2019" "absent" 0
+"1021" "Inula salicina Pall." "p1-2020" "absent" 0
+"1022" "Inula salicina Pall." "p2-2020" "absent" 0
+"1023" "Inula salicina Pall." "p3-2020" "absent" 0
+"1024" "Inula salicina Pall." "p4-2020" "absent" 0
+"1025" "Inula salicina Pall." "p5-2020" "absent" 0
+"1026" "Inula salicina Pall." "p6-2020" "absent" 0
+"1027" "Inula salicina Pall." "p7-2020" "absent" 0
+"1028" "Inula salicina Pall." "p8-2020" "absent" 0
+"1029" "Inula salicina Pall." "p9-2020" "absent" 0
+"1030" "Inula salicina Pall." "p10-2020" "absent" 0
+"1031" "Inula salicina Pall." "p11-2020" "absent" 0
+"1032" "Inula salicina Pall." "p12-2020" "absent" 0
+"1033" "Inula salicina Pall." "p13-2020" "absent" 0
+"1034" "Inula salicina Pall." "p14-2020" "absent" 0
+"1035" "Inula salicina Pall." "p15-2020" "absent" 0
+"1036" "Lappula myosotis Moench" "p1-2009" "absent" 0
+"1037" "Lappula myosotis Moench" "p2-2009" "absent" 0
+"1038" "Lappula myosotis Moench" "p3-2009" "absent" 0
+"1039" "Lappula myosotis Moench" "p4-2009" "present" 1
+"1040" "Lappula myosotis Moench" "p5-2009" "absent" 0
+"1041" "Lappula myosotis Moench" "p6-2009" "absent" 0
+"1042" "Lappula myosotis Moench" "p7-2009" "absent" 0
+"1043" "Lappula myosotis Moench" "p8-2009" "present" 1
+"1044" "Lappula myosotis Moench" "p9-2009" "absent" 0
+"1045" "Lappula myosotis Moench" "p10-2009" "absent" 0
+"1046" "Lappula myosotis Moench" "p11-2009" "absent" 0
+"1047" "Lappula myosotis Moench" "p12-2009" "absent" 0
+"1048" "Lappula myosotis Moench" "p13-2009" "present" 1
+"1049" "Lappula myosotis Moench" "p14-2009" "absent" 0
+"1050" "Lappula myosotis Moench" "p15-2009" "absent" 0
+"1051" "Lappula myosotis Moench" "p1-2019" "absent" 0
+"1052" "Lappula myosotis Moench" "p2-2019" "absent" 0
+"1053" "Lappula myosotis Moench" "p3-2019" "absent" 0
+"1054" "Lappula myosotis Moench" "p4-2019" "absent" 0
+"1055" "Lappula myosotis Moench" "p5-2019" "absent" 0
+"1056" "Lappula myosotis Moench" "p6-2019" "absent" 0
+"1057" "Lappula myosotis Moench" "p7-2019" "absent" 0
+"1058" "Lappula myosotis Moench" "p8-2019" "absent" 0
+"1059" "Lappula myosotis Moench" "p9-2019" "absent" 0
+"1060" "Lappula myosotis Moench" "p10-2019" "present" 1
+"1061" "Lappula myosotis Moench" "p11-2019" "absent" 0
+"1062" "Lappula myosotis Moench" "p12-2019" "absent" 0
+"1063" "Lappula myosotis Moench" "p13-2019" "present" 1
+"1064" "Lappula myosotis Moench" "p14-2019" "absent" 0
+"1065" "Lappula myosotis Moench" "p15-2019" "present" 1
+"1066" "Lappula myosotis Moench" "p1-2020" "absent" 0
+"1067" "Lappula myosotis Moench" "p2-2020" "absent" 0
+"1068" "Lappula myosotis Moench" "p3-2020" "absent" 0
+"1069" "Lappula myosotis Moench" "p4-2020" "absent" 0
+"1070" "Lappula myosotis Moench" "p5-2020" "absent" 0
+"1071" "Lappula myosotis Moench" "p6-2020" "absent" 0
+"1072" "Lappula myosotis Moench" "p7-2020" "absent" 0
+"1073" "Lappula myosotis Moench" "p8-2020" "absent" 0
+"1074" "Lappula myosotis Moench" "p9-2020" "absent" 0
+"1075" "Lappula myosotis Moench" "p10-2020" "absent" 0
+"1076" "Lappula myosotis Moench" "p11-2020" "absent" 0
+"1077" "Lappula myosotis Moench" "p12-2020" "absent" 0
+"1078" "Lappula myosotis Moench" "p13-2020" "absent" 0
+"1079" "Lappula myosotis Moench" "p14-2020" "absent" 0
+"1080" "Lappula myosotis Moench" "p15-2020" "present" 1
+"1081" "Lepidium campestre (L.) W.T.Aiton" "p1-2009" "absent" 0
+"1082" "Lepidium campestre (L.) W.T.Aiton" "p2-2009" "absent" 0
+"1083" "Lepidium campestre (L.) W.T.Aiton" "p3-2009" "absent" 0
+"1084" "Lepidium campestre (L.) W.T.Aiton" "p4-2009" "absent" 0
+"1085" "Lepidium campestre (L.) W.T.Aiton" "p5-2009" "absent" 0
+"1086" "Lepidium campestre (L.) W.T.Aiton" "p6-2009" "absent" 0
+"1087" "Lepidium campestre (L.) W.T.Aiton" "p7-2009" "absent" 0
+"1088" "Lepidium campestre (L.) W.T.Aiton" "p8-2009" "absent" 0
+"1089" "Lepidium campestre (L.) W.T.Aiton" "p9-2009" "absent" 0
+"1090" "Lepidium campestre (L.) W.T.Aiton" "p10-2009" "absent" 0
+"1091" "Lepidium campestre (L.) W.T.Aiton" "p11-2009" "absent" 0
+"1092" "Lepidium campestre (L.) W.T.Aiton" "p12-2009" "absent" 0
+"1093" "Lepidium campestre (L.) W.T.Aiton" "p13-2009" "absent" 0
+"1094" "Lepidium campestre (L.) W.T.Aiton" "p14-2009" "absent" 0
+"1095" "Lepidium campestre (L.) W.T.Aiton" "p15-2009" "absent" 0
+"1096" "Lepidium campestre (L.) W.T.Aiton" "p1-2019" "absent" 0
+"1097" "Lepidium campestre (L.) W.T.Aiton" "p2-2019" "absent" 0
+"1098" "Lepidium campestre (L.) W.T.Aiton" "p3-2019" "absent" 0
+"1099" "Lepidium campestre (L.) W.T.Aiton" "p4-2019" "absent" 0
+"1100" "Lepidium campestre (L.) W.T.Aiton" "p5-2019" "absent" 0
+"1101" "Lepidium campestre (L.) W.T.Aiton" "p6-2019" "absent" 0
+"1102" "Lepidium campestre (L.) W.T.Aiton" "p7-2019" "absent" 0
+"1103" "Lepidium campestre (L.) W.T.Aiton" "p8-2019" "absent" 0
+"1104" "Lepidium campestre (L.) W.T.Aiton" "p9-2019" "absent" 0
+"1105" "Lepidium campestre (L.) W.T.Aiton" "p10-2019" "absent" 0
+"1106" "Lepidium campestre (L.) W.T.Aiton" "p11-2019" "absent" 0
+"1107" "Lepidium campestre (L.) W.T.Aiton" "p12-2019" "absent" 0
+"1108" "Lepidium campestre (L.) W.T.Aiton" "p13-2019" "absent" 0
+"1109" "Lepidium campestre (L.) W.T.Aiton" "p14-2019" "absent" 0
+"1110" "Lepidium campestre (L.) W.T.Aiton" "p15-2019" "present" 1
+"1111" "Lepidium campestre (L.) W.T.Aiton" "p1-2020" "present" 1
+"1112" "Lepidium campestre (L.) W.T.Aiton" "p2-2020" "absent" 0
+"1113" "Lepidium campestre (L.) W.T.Aiton" "p3-2020" "absent" 0
+"1114" "Lepidium campestre (L.) W.T.Aiton" "p4-2020" "absent" 0
+"1115" "Lepidium campestre (L.) W.T.Aiton" "p5-2020" "absent" 0
+"1116" "Lepidium campestre (L.) W.T.Aiton" "p6-2020" "absent" 0
+"1117" "Lepidium campestre (L.) W.T.Aiton" "p7-2020" "absent" 0
+"1118" "Lepidium campestre (L.) W.T.Aiton" "p8-2020" "absent" 0
+"1119" "Lepidium campestre (L.) W.T.Aiton" "p9-2020" "absent" 0
+"1120" "Lepidium campestre (L.) W.T.Aiton" "p10-2020" "absent" 0
+"1121" "Lepidium campestre (L.) W.T.Aiton" "p11-2020" "absent" 0
+"1122" "Lepidium campestre (L.) W.T.Aiton" "p12-2020" "absent" 0
+"1123" "Lepidium campestre (L.) W.T.Aiton" "p13-2020" "absent" 0
+"1124" "Lepidium campestre (L.) W.T.Aiton" "p14-2020" "absent" 0
+"1125" "Lepidium campestre (L.) W.T.Aiton" "p15-2020" "present" 1
+"1126" "Ligustrum vulgare L." "p1-2009" "absent" 0
+"1127" "Ligustrum vulgare L." "p2-2009" "absent" 0
+"1128" "Ligustrum vulgare L." "p3-2009" "absent" 0
+"1129" "Ligustrum vulgare L." "p4-2009" "absent" 0
+"1130" "Ligustrum vulgare L." "p5-2009" "absent" 0
+"1131" "Ligustrum vulgare L." "p6-2009" "absent" 0
+"1132" "Ligustrum vulgare L." "p7-2009" "absent" 0
+"1133" "Ligustrum vulgare L." "p8-2009" "absent" 0
+"1134" "Ligustrum vulgare L." "p9-2009" "absent" 0
+"1135" "Ligustrum vulgare L." "p10-2009" "absent" 0
+"1136" "Ligustrum vulgare L." "p11-2009" "absent" 0
+"1137" "Ligustrum vulgare L." "p12-2009" "absent" 0
+"1138" "Ligustrum vulgare L." "p13-2009" "absent" 0
+"1139" "Ligustrum vulgare L." "p14-2009" "absent" 0
+"1140" "Ligustrum vulgare L." "p15-2009" "absent" 0
+"1141" "Ligustrum vulgare L." "p1-2019" "present" 1
+"1142" "Ligustrum vulgare L." "p2-2019" "absent" 0
+"1143" "Ligustrum vulgare L." "p3-2019" "absent" 0
+"1144" "Ligustrum vulgare L." "p4-2019" "absent" 0
+"1145" "Ligustrum vulgare L." "p5-2019" "absent" 0
+"1146" "Ligustrum vulgare L." "p6-2019" "absent" 0
+"1147" "Ligustrum vulgare L." "p7-2019" "absent" 0
+"1148" "Ligustrum vulgare L." "p8-2019" "absent" 0
+"1149" "Ligustrum vulgare L." "p9-2019" "present" 1
+"1150" "Ligustrum vulgare L." "p10-2019" "absent" 0
+"1151" "Ligustrum vulgare L." "p11-2019" "absent" 0
+"1152" "Ligustrum vulgare L." "p12-2019" "absent" 0
+"1153" "Ligustrum vulgare L." "p13-2019" "absent" 0
+"1154" "Ligustrum vulgare L." "p14-2019" "present" 1
+"1155" "Ligustrum vulgare L." "p15-2019" "absent" 0
+"1156" "Ligustrum vulgare L." "p1-2020" "absent" 0
+"1157" "Ligustrum vulgare L." "p2-2020" "absent" 0
+"1158" "Ligustrum vulgare L." "p3-2020" "absent" 0
+"1159" "Ligustrum vulgare L." "p4-2020" "absent" 0
+"1160" "Ligustrum vulgare L." "p5-2020" "absent" 0
+"1161" "Ligustrum vulgare L." "p6-2020" "absent" 0
+"1162" "Ligustrum vulgare L." "p7-2020" "absent" 0
+"1163" "Ligustrum vulgare L." "p8-2020" "absent" 0
+"1164" "Ligustrum vulgare L." "p9-2020" "present" 1
+"1165" "Ligustrum vulgare L." "p10-2020" "absent" 0
+"1166" "Ligustrum vulgare L." "p11-2020" "absent" 0
+"1167" "Ligustrum vulgare L." "p12-2020" "absent" 0
+"1168" "Ligustrum vulgare L." "p13-2020" "absent" 0
+"1169" "Ligustrum vulgare L." "p14-2020" "present" 1
+"1170" "Ligustrum vulgare L." "p15-2020" "absent" 0
+"1171" "Linum catharticum L." "p1-2009" "absent" 0
+"1172" "Linum catharticum L." "p2-2009" "present" 1
+"1173" "Linum catharticum L." "p3-2009" "present" 1
+"1174" "Linum catharticum L." "p4-2009" "present" 1
+"1175" "Linum catharticum L." "p5-2009" "present" 1
+"1176" "Linum catharticum L." "p6-2009" "absent" 0
+"1177" "Linum catharticum L." "p7-2009" "absent" 0
+"1178" "Linum catharticum L." "p8-2009" "absent" 0
+"1179" "Linum catharticum L." "p9-2009" "present" 1
+"1180" "Linum catharticum L." "p10-2009" "absent" 0
+"1181" "Linum catharticum L." "p11-2009" "absent" 0
+"1182" "Linum catharticum L." "p12-2009" "present" 1
+"1183" "Linum catharticum L." "p13-2009" "present" 1
+"1184" "Linum catharticum L." "p14-2009" "absent" 0
+"1185" "Linum catharticum L." "p15-2009" "present" 1
+"1186" "Linum catharticum L." "p1-2019" "absent" 0
+"1187" "Linum catharticum L." "p2-2019" "absent" 0
+"1188" "Linum catharticum L." "p3-2019" "absent" 0
+"1189" "Linum catharticum L." "p4-2019" "present" 1
+"1190" "Linum catharticum L." "p5-2019" "present" 1
+"1191" "Linum catharticum L." "p6-2019" "absent" 0
+"1192" "Linum catharticum L." "p7-2019" "absent" 0
+"1193" "Linum catharticum L." "p8-2019" "present" 1
+"1194" "Linum catharticum L." "p9-2019" "present" 1
+"1195" "Linum catharticum L." "p10-2019" "absent" 0
+"1196" "Linum catharticum L." "p11-2019" "absent" 0
+"1197" "Linum catharticum L." "p12-2019" "absent" 0
+"1198" "Linum catharticum L." "p13-2019" "present" 1
+"1199" "Linum catharticum L." "p14-2019" "absent" 0
+"1200" "Linum catharticum L." "p15-2019" "present" 1
+"1201" "Linum catharticum L." "p1-2020" "present" 1
+"1202" "Linum catharticum L." "p2-2020" "present" 1
+"1203" "Linum catharticum L." "p3-2020" "absent" 0
+"1204" "Linum catharticum L." "p4-2020" "present" 1
+"1205" "Linum catharticum L." "p5-2020" "present" 1
+"1206" "Linum catharticum L." "p6-2020" "absent" 0
+"1207" "Linum catharticum L." "p7-2020" "present" 1
+"1208" "Linum catharticum L." "p8-2020" "present" 1
+"1209" "Linum catharticum L." "p9-2020" "present" 1
+"1210" "Linum catharticum L." "p10-2020" "present" 1
+"1211" "Linum catharticum L." "p11-2020" "absent" 0
+"1212" "Linum catharticum L." "p12-2020" "present" 1
+"1213" "Linum catharticum L." "p13-2020" "present" 1
+"1214" "Linum catharticum L." "p14-2020" "absent" 0
+"1215" "Linum catharticum L." "p15-2020" "present" 1
+"1216" "Lithospermum officinale L." "p1-2009" "absent" 0
+"1217" "Lithospermum officinale L." "p2-2009" "absent" 0
+"1218" "Lithospermum officinale L." "p3-2009" "absent" 0
+"1219" "Lithospermum officinale L." "p4-2009" "absent" 0
+"1220" "Lithospermum officinale L." "p5-2009" "absent" 0
+"1221" "Lithospermum officinale L." "p6-2009" "absent" 0
+"1222" "Lithospermum officinale L." "p7-2009" "absent" 0
+"1223" "Lithospermum officinale L." "p8-2009" "absent" 0
+"1224" "Lithospermum officinale L." "p9-2009" "absent" 0
+"1225" "Lithospermum officinale L." "p10-2009" "absent" 0
+"1226" "Lithospermum officinale L." "p11-2009" "absent" 0
+"1227" "Lithospermum officinale L." "p12-2009" "absent" 0
+"1228" "Lithospermum officinale L." "p13-2009" "absent" 0
+"1229" "Lithospermum officinale L." "p14-2009" "present" 1
+"1230" "Lithospermum officinale L." "p15-2009" "absent" 0
+"1231" "Lithospermum officinale L." "p1-2019" "present" 1
+"1232" "Lithospermum officinale L." "p2-2019" "absent" 0
+"1233" "Lithospermum officinale L." "p3-2019" "absent" 0
+"1234" "Lithospermum officinale L." "p4-2019" "absent" 0
+"1235" "Lithospermum officinale L." "p5-2019" "present" 1
+"1236" "Lithospermum officinale L." "p6-2019" "present" 1
+"1237" "Lithospermum officinale L." "p7-2019" "absent" 0
+"1238" "Lithospermum officinale L." "p8-2019" "absent" 0
+"1239" "Lithospermum officinale L." "p9-2019" "absent" 0
+"1240" "Lithospermum officinale L." "p10-2019" "present" 1
+"1241" "Lithospermum officinale L." "p11-2019" "absent" 0
+"1242" "Lithospermum officinale L." "p12-2019" "absent" 0
+"1243" "Lithospermum officinale L." "p13-2019" "absent" 0
+"1244" "Lithospermum officinale L." "p14-2019" "present" 1
+"1245" "Lithospermum officinale L." "p15-2019" "absent" 0
+"1246" "Lithospermum officinale L." "p1-2020" "present" 1
+"1247" "Lithospermum officinale L." "p2-2020" "absent" 0
+"1248" "Lithospermum officinale L." "p3-2020" "absent" 0
+"1249" "Lithospermum officinale L." "p4-2020" "absent" 0
+"1250" "Lithospermum officinale L." "p5-2020" "present" 1
+"1251" "Lithospermum officinale L." "p6-2020" "absent" 0
+"1252" "Lithospermum officinale L." "p7-2020" "absent" 0
+"1253" "Lithospermum officinale L." "p8-2020" "absent" 0
+"1254" "Lithospermum officinale L." "p9-2020" "absent" 0
+"1255" "Lithospermum officinale L." "p10-2020" "present" 1
+"1256" "Lithospermum officinale L." "p11-2020" "absent" 0
+"1257" "Lithospermum officinale L." "p12-2020" "absent" 0
+"1258" "Lithospermum officinale L." "p13-2020" "absent" 0
+"1259" "Lithospermum officinale L." "p14-2020" "present" 1
+"1260" "Lithospermum officinale L." "p15-2020" "absent" 0
+"1261" "Myosotis ramosissima Rochel" "p1-2009" "absent" 0
+"1262" "Myosotis ramosissima Rochel" "p2-2009" "absent" 0
+"1263" "Myosotis ramosissima Rochel" "p3-2009" "absent" 0
+"1264" "Myosotis ramosissima Rochel" "p4-2009" "absent" 0
+"1265" "Myosotis ramosissima Rochel" "p5-2009" "absent" 0
+"1266" "Myosotis ramosissima Rochel" "p6-2009" "absent" 0
+"1267" "Myosotis ramosissima Rochel" "p7-2009" "absent" 0
+"1268" "Myosotis ramosissima Rochel" "p8-2009" "absent" 0
+"1269" "Myosotis ramosissima Rochel" "p9-2009" "absent" 0
+"1270" "Myosotis ramosissima Rochel" "p10-2009" "present" 1
+"1271" "Myosotis ramosissima Rochel" "p11-2009" "absent" 0
+"1272" "Myosotis ramosissima Rochel" "p12-2009" "absent" 0
+"1273" "Myosotis ramosissima Rochel" "p13-2009" "absent" 0
+"1274" "Myosotis ramosissima Rochel" "p14-2009" "absent" 0
+"1275" "Myosotis ramosissima Rochel" "p15-2009" "absent" 0
+"1276" "Myosotis ramosissima Rochel" "p1-2019" "absent" 0
+"1277" "Myosotis ramosissima Rochel" "p2-2019" "absent" 0
+"1278" "Myosotis ramosissima Rochel" "p3-2019" "absent" 0
+"1279" "Myosotis ramosissima Rochel" "p4-2019" "present" 1
+"1280" "Myosotis ramosissima Rochel" "p5-2019" "absent" 0
+"1281" "Myosotis ramosissima Rochel" "p6-2019" "absent" 0
+"1282" "Myosotis ramosissima Rochel" "p7-2019" "absent" 0
+"1283" "Myosotis ramosissima Rochel" "p8-2019" "absent" 0
+"1284" "Myosotis ramosissima Rochel" "p9-2019" "absent" 0
+"1285" "Myosotis ramosissima Rochel" "p10-2019" "absent" 0
+"1286" "Myosotis ramosissima Rochel" "p11-2019" "absent" 0
+"1287" "Myosotis ramosissima Rochel" "p12-2019" "absent" 0
+"1288" "Myosotis ramosissima Rochel" "p13-2019" "absent" 0
+"1289" "Myosotis ramosissima Rochel" "p14-2019" "absent" 0
+"1290" "Myosotis ramosissima Rochel" "p15-2019" "absent" 0
+"1291" "Myosotis ramosissima Rochel" "p1-2020" "absent" 0
+"1292" "Myosotis ramosissima Rochel" "p2-2020" "absent" 0
+"1293" "Myosotis ramosissima Rochel" "p3-2020" "absent" 0
+"1294" "Myosotis ramosissima Rochel" "p4-2020" "absent" 0
+"1295" "Myosotis ramosissima Rochel" "p5-2020" "absent" 0
+"1296" "Myosotis ramosissima Rochel" "p6-2020" "absent" 0
+"1297" "Myosotis ramosissima Rochel" "p7-2020" "absent" 0
+"1298" "Myosotis ramosissima Rochel" "p8-2020" "absent" 0
+"1299" "Myosotis ramosissima Rochel" "p9-2020" "absent" 0
+"1300" "Myosotis ramosissima Rochel" "p10-2020" "absent" 0
+"1301" "Myosotis ramosissima Rochel" "p11-2020" "absent" 0
+"1302" "Myosotis ramosissima Rochel" "p12-2020" "absent" 0
+"1303" "Myosotis ramosissima Rochel" "p13-2020" "absent" 0
+"1304" "Myosotis ramosissima Rochel" "p14-2020" "absent" 0
+"1305" "Myosotis ramosissima Rochel" "p15-2020" "absent" 0
+"1306" "Myosotis stricta Link ex Roem. & Schult." "p1-2009" "absent" 0
+"1307" "Myosotis stricta Link ex Roem. & Schult." "p2-2009" "absent" 0
+"1308" "Myosotis stricta Link ex Roem. & Schult." "p3-2009" "absent" 0
+"1309" "Myosotis stricta Link ex Roem. & Schult." "p4-2009" "absent" 0
+"1310" "Myosotis stricta Link ex Roem. & Schult." "p5-2009" "absent" 0
+"1311" "Myosotis stricta Link ex Roem. & Schult." "p6-2009" "absent" 0
+"1312" "Myosotis stricta Link ex Roem. & Schult." "p7-2009" "present" 1
+"1313" "Myosotis stricta Link ex Roem. & Schult." "p8-2009" "present" 1
+"1314" "Myosotis stricta Link ex Roem. & Schult." "p9-2009" "absent" 0
+"1315" "Myosotis stricta Link ex Roem. & Schult." "p10-2009" "absent" 0
+"1316" "Myosotis stricta Link ex Roem. & Schult." "p11-2009" "absent" 0
+"1317" "Myosotis stricta Link ex Roem. & Schult." "p12-2009" "absent" 0
+"1318" "Myosotis stricta Link ex Roem. & Schult." "p13-2009" "absent" 0
+"1319" "Myosotis stricta Link ex Roem. & Schult." "p14-2009" "absent" 0
+"1320" "Myosotis stricta Link ex Roem. & Schult." "p15-2009" "absent" 0
+"1321" "Myosotis stricta Link ex Roem. & Schult." "p1-2019" "absent" 0
+"1322" "Myosotis stricta Link ex Roem. & Schult." "p2-2019" "absent" 0
+"1323" "Myosotis stricta Link ex Roem. & Schult." "p3-2019" "absent" 0
+"1324" "Myosotis stricta Link ex Roem. & Schult." "p4-2019" "absent" 0
+"1325" "Myosotis stricta Link ex Roem. & Schult." "p5-2019" "absent" 0
+"1326" "Myosotis stricta Link ex Roem. & Schult." "p6-2019" "absent" 0
+"1327" "Myosotis stricta Link ex Roem. & Schult." "p7-2019" "absent" 0
+"1328" "Myosotis stricta Link ex Roem. & Schult." "p8-2019" "absent" 0
+"1329" "Myosotis stricta Link ex Roem. & Schult." "p9-2019" "absent" 0
+"1330" "Myosotis stricta Link ex Roem. & Schult." "p10-2019" "absent" 0
+"1331" "Myosotis stricta Link ex Roem. & Schult." "p11-2019" "absent" 0
+"1332" "Myosotis stricta Link ex Roem. & Schult." "p12-2019" "absent" 0
+"1333" "Myosotis stricta Link ex Roem. & Schult." "p13-2019" "absent" 0
+"1334" "Myosotis stricta Link ex Roem. & Schult." "p14-2019" "absent" 0
+"1335" "Myosotis stricta Link ex Roem. & Schult." "p15-2019" "absent" 0
+"1336" "Myosotis stricta Link ex Roem. & Schult." "p1-2020" "absent" 0
+"1337" "Myosotis stricta Link ex Roem. & Schult." "p2-2020" "absent" 0
+"1338" "Myosotis stricta Link ex Roem. & Schult." "p3-2020" "absent" 0
+"1339" "Myosotis stricta Link ex Roem. & Schult." "p4-2020" "absent" 0
+"1340" "Myosotis stricta Link ex Roem. & Schult." "p5-2020" "absent" 0
+"1341" "Myosotis stricta Link ex Roem. & Schult." "p6-2020" "absent" 0
+"1342" "Myosotis stricta Link ex Roem. & Schult." "p7-2020" "absent" 0
+"1343" "Myosotis stricta Link ex Roem. & Schult." "p8-2020" "absent" 0
+"1344" "Myosotis stricta Link ex Roem. & Schult." "p9-2020" "absent" 0
+"1345" "Myosotis stricta Link ex Roem. & Schult." "p10-2020" "absent" 0
+"1346" "Myosotis stricta Link ex Roem. & Schult." "p11-2020" "absent" 0
+"1347" "Myosotis stricta Link ex Roem. & Schult." "p12-2020" "absent" 0
+"1348" "Myosotis stricta Link ex Roem. & Schult." "p13-2020" "absent" 0
+"1349" "Myosotis stricta Link ex Roem. & Schult." "p14-2020" "absent" 0
+"1350" "Myosotis stricta Link ex Roem. & Schult." "p15-2020" "absent" 0
+"1351" "Myosurus minimus L." "p1-2009" "absent" 0
+"1352" "Myosurus minimus L." "p2-2009" "absent" 0
+"1353" "Myosurus minimus L." "p3-2009" "absent" 0
+"1354" "Myosurus minimus L." "p4-2009" "absent" 0
+"1355" "Myosurus minimus L." "p5-2009" "absent" 0
+"1356" "Myosurus minimus L." "p6-2009" "absent" 0
+"1357" "Myosurus minimus L." "p7-2009" "absent" 0
+"1358" "Myosurus minimus L." "p8-2009" "absent" 0
+"1359" "Myosurus minimus L." "p9-2009" "absent" 0
+"1360" "Myosurus minimus L." "p10-2009" "absent" 0
+"1361" "Myosurus minimus L." "p11-2009" "absent" 0
+"1362" "Myosurus minimus L." "p12-2009" "absent" 0
+"1363" "Myosurus minimus L." "p13-2009" "absent" 0
+"1364" "Myosurus minimus L." "p14-2009" "absent" 0
+"1365" "Myosurus minimus L." "p15-2009" "absent" 0
+"1366" "Myosurus minimus L." "p1-2019" "absent" 0
+"1367" "Myosurus minimus L." "p2-2019" "absent" 0
+"1368" "Myosurus minimus L." "p3-2019" "absent" 0
+"1369" "Myosurus minimus L." "p4-2019" "absent" 0
+"1370" "Myosurus minimus L." "p5-2019" "absent" 0
+"1371" "Myosurus minimus L." "p6-2019" "absent" 0
+"1372" "Myosurus minimus L." "p7-2019" "absent" 0
+"1373" "Myosurus minimus L." "p8-2019" "absent" 0
+"1374" "Myosurus minimus L." "p9-2019" "absent" 0
+"1375" "Myosurus minimus L." "p10-2019" "absent" 0
+"1376" "Myosurus minimus L." "p11-2019" "absent" 0
+"1377" "Myosurus minimus L." "p12-2019" "absent" 0
+"1378" "Myosurus minimus L." "p13-2019" "absent" 0
+"1379" "Myosurus minimus L." "p14-2019" "absent" 0
+"1380" "Myosurus minimus L." "p15-2019" "absent" 0
+"1381" "Myosurus minimus L." "p1-2020" "absent" 0
+"1382" "Myosurus minimus L." "p2-2020" "absent" 0
+"1383" "Myosurus minimus L." "p3-2020" "absent" 0
+"1384" "Myosurus minimus L." "p4-2020" "absent" 0
+"1385" "Myosurus minimus L." "p5-2020" "absent" 0
+"1386" "Myosurus minimus L." "p6-2020" "absent" 0
+"1387" "Myosurus minimus L." "p7-2020" "absent" 0
+"1388" "Myosurus minimus L." "p8-2020" "absent" 0
+"1389" "Myosurus minimus L." "p9-2020" "absent" 0
+"1390" "Myosurus minimus L." "p10-2020" "absent" 0
+"1391" "Myosurus minimus L." "p11-2020" "absent" 0
+"1392" "Myosurus minimus L." "p12-2020" "absent" 0
+"1393" "Myosurus minimus L." "p13-2020" "absent" 0
+"1394" "Myosurus minimus L." "p14-2020" "absent" 0
+"1395" "Myosurus minimus L." "p15-2020" "absent" 0
+"1396" "Odontites litoralis Fr." "p1-2009" "absent" 0
+"1397" "Odontites litoralis Fr." "p2-2009" "absent" 0
+"1398" "Odontites litoralis Fr." "p3-2009" "absent" 0
+"1399" "Odontites litoralis Fr." "p4-2009" "absent" 0
+"1400" "Odontites litoralis Fr." "p5-2009" "absent" 0
+"1401" "Odontites litoralis Fr." "p6-2009" "absent" 0
+"1402" "Odontites litoralis Fr." "p7-2009" "absent" 0
+"1403" "Odontites litoralis Fr." "p8-2009" "absent" 0
+"1404" "Odontites litoralis Fr." "p9-2009" "absent" 0
+"1405" "Odontites litoralis Fr." "p10-2009" "absent" 0
+"1406" "Odontites litoralis Fr." "p11-2009" "absent" 0
+"1407" "Odontites litoralis Fr." "p12-2009" "absent" 0
+"1408" "Odontites litoralis Fr." "p13-2009" "absent" 0
+"1409" "Odontites litoralis Fr." "p14-2009" "absent" 0
+"1410" "Odontites litoralis Fr." "p15-2009" "absent" 0
+"1411" "Odontites litoralis Fr." "p1-2019" "absent" 0
+"1412" "Odontites litoralis Fr." "p2-2019" "absent" 0
+"1413" "Odontites litoralis Fr." "p3-2019" "absent" 0
+"1414" "Odontites litoralis Fr." "p4-2019" "absent" 0
+"1415" "Odontites litoralis Fr." "p5-2019" "absent" 0
+"1416" "Odontites litoralis Fr." "p6-2019" "absent" 0
+"1417" "Odontites litoralis Fr." "p7-2019" "absent" 0
+"1418" "Odontites litoralis Fr." "p8-2019" "absent" 0
+"1419" "Odontites litoralis Fr." "p9-2019" "absent" 0
+"1420" "Odontites litoralis Fr." "p10-2019" "absent" 0
+"1421" "Odontites litoralis Fr." "p11-2019" "absent" 0
+"1422" "Odontites litoralis Fr." "p12-2019" "absent" 0
+"1423" "Odontites litoralis Fr." "p13-2019" "absent" 0
+"1424" "Odontites litoralis Fr." "p14-2019" "absent" 0
+"1425" "Odontites litoralis Fr." "p15-2019" "absent" 0
+"1426" "Odontites litoralis Fr." "p1-2020" "absent" 0
+"1427" "Odontites litoralis Fr." "p2-2020" "absent" 0
+"1428" "Odontites litoralis Fr." "p3-2020" "absent" 0
+"1429" "Odontites litoralis Fr." "p4-2020" "absent" 0
+"1430" "Odontites litoralis Fr." "p5-2020" "absent" 0
+"1431" "Odontites litoralis Fr." "p6-2020" "absent" 0
+"1432" "Odontites litoralis Fr." "p7-2020" "absent" 0
+"1433" "Odontites litoralis Fr." "p8-2020" "absent" 0
+"1434" "Odontites litoralis Fr." "p9-2020" "absent" 0
+"1435" "Odontites litoralis Fr." "p10-2020" "absent" 0
+"1436" "Odontites litoralis Fr." "p11-2020" "absent" 0
+"1437" "Odontites litoralis Fr." "p12-2020" "absent" 0
+"1438" "Odontites litoralis Fr." "p13-2020" "absent" 0
+"1439" "Odontites litoralis Fr." "p14-2020" "absent" 0
+"1440" "Odontites litoralis Fr." "p15-2020" "absent" 0
+"1441" "Phleum phleoides (L.) H.Karst." "p1-2009" "present" 1
+"1442" "Phleum phleoides (L.) H.Karst." "p2-2009" "present" 1
+"1443" "Phleum phleoides (L.) H.Karst." "p3-2009" "absent" 0
+"1444" "Phleum phleoides (L.) H.Karst." "p4-2009" "present" 1
+"1445" "Phleum phleoides (L.) H.Karst." "p5-2009" "absent" 0
+"1446" "Phleum phleoides (L.) H.Karst." "p6-2009" "absent" 0
+"1447" "Phleum phleoides (L.) H.Karst." "p7-2009" "present" 1
+"1448" "Phleum phleoides (L.) H.Karst." "p8-2009" "absent" 0
+"1449" "Phleum phleoides (L.) H.Karst." "p9-2009" "absent" 0
+"1450" "Phleum phleoides (L.) H.Karst." "p10-2009" "absent" 0
+"1451" "Phleum phleoides (L.) H.Karst." "p11-2009" "present" 1
+"1452" "Phleum phleoides (L.) H.Karst." "p12-2009" "present" 1
+"1453" "Phleum phleoides (L.) H.Karst." "p13-2009" "absent" 0
+"1454" "Phleum phleoides (L.) H.Karst." "p14-2009" "present" 1
+"1455" "Phleum phleoides (L.) H.Karst." "p15-2009" "absent" 0
+"1456" "Phleum phleoides (L.) H.Karst." "p1-2019" "present" 1
+"1457" "Phleum phleoides (L.) H.Karst." "p2-2019" "present" 1
+"1458" "Phleum phleoides (L.) H.Karst." "p3-2019" "absent" 0
+"1459" "Phleum phleoides (L.) H.Karst." "p4-2019" "present" 1
+"1460" "Phleum phleoides (L.) H.Karst." "p5-2019" "present" 1
+"1461" "Phleum phleoides (L.) H.Karst." "p6-2019" "absent" 0
+"1462" "Phleum phleoides (L.) H.Karst." "p7-2019" "absent" 0
+"1463" "Phleum phleoides (L.) H.Karst." "p8-2019" "absent" 0
+"1464" "Phleum phleoides (L.) H.Karst." "p9-2019" "absent" 0
+"1465" "Phleum phleoides (L.) H.Karst." "p10-2019" "absent" 0
+"1466" "Phleum phleoides (L.) H.Karst." "p11-2019" "present" 1
+"1467" "Phleum phleoides (L.) H.Karst." "p12-2019" "present" 1
+"1468" "Phleum phleoides (L.) H.Karst." "p13-2019" "absent" 0
+"1469" "Phleum phleoides (L.) H.Karst." "p14-2019" "present" 1
+"1470" "Phleum phleoides (L.) H.Karst." "p15-2019" "present" 1
+"1471" "Phleum phleoides (L.) H.Karst." "p1-2020" "present" 1
+"1472" "Phleum phleoides (L.) H.Karst." "p2-2020" "present" 1
+"1473" "Phleum phleoides (L.) H.Karst." "p3-2020" "absent" 0
+"1474" "Phleum phleoides (L.) H.Karst." "p4-2020" "present" 1
+"1475" "Phleum phleoides (L.) H.Karst." "p5-2020" "present" 1
+"1476" "Phleum phleoides (L.) H.Karst." "p6-2020" "absent" 0
+"1477" "Phleum phleoides (L.) H.Karst." "p7-2020" "absent" 0
+"1478" "Phleum phleoides (L.) H.Karst." "p8-2020" "absent" 0
+"1479" "Phleum phleoides (L.) H.Karst." "p9-2020" "absent" 0
+"1480" "Phleum phleoides (L.) H.Karst." "p10-2020" "absent" 0
+"1481" "Phleum phleoides (L.) H.Karst." "p11-2020" "present" 1
+"1482" "Phleum phleoides (L.) H.Karst." "p12-2020" "present" 1
+"1483" "Phleum phleoides (L.) H.Karst." "p13-2020" "absent" 0
+"1484" "Phleum phleoides (L.) H.Karst." "p14-2020" "absent" 0
+"1485" "Phleum phleoides (L.) H.Karst." "p15-2020" "present" 1
+"1486" "Poa alpina var. alpina" "p1-2009" "absent" 0
+"1487" "Poa alpina var. alpina" "p2-2009" "absent" 0
+"1488" "Poa alpina var. alpina" "p3-2009" "absent" 0
+"1489" "Poa alpina var. alpina" "p4-2009" "present" 1
+"1490" "Poa alpina var. alpina" "p5-2009" "absent" 0
+"1491" "Poa alpina var. alpina" "p6-2009" "present" 1
+"1492" "Poa alpina var. alpina" "p7-2009" "present" 1
+"1493" "Poa alpina var. alpina" "p8-2009" "present" 1
+"1494" "Poa alpina var. alpina" "p9-2009" "present" 1
+"1495" "Poa alpina var. alpina" "p10-2009" "absent" 0
+"1496" "Poa alpina var. alpina" "p11-2009" "present" 1
+"1497" "Poa alpina var. alpina" "p12-2009" "absent" 0
+"1498" "Poa alpina var. alpina" "p13-2009" "present" 1
+"1499" "Poa alpina var. alpina" "p14-2009" "absent" 0
+"1500" "Poa alpina var. alpina" "p15-2009" "present" 1
+"1501" "Poa alpina var. alpina" "p1-2019" "absent" 0
+"1502" "Poa alpina var. alpina" "p2-2019" "absent" 0
+"1503" "Poa alpina var. alpina" "p3-2019" "absent" 0
+"1504" "Poa alpina var. alpina" "p4-2019" "absent" 0
+"1505" "Poa alpina var. alpina" "p5-2019" "absent" 0
+"1506" "Poa alpina var. alpina" "p6-2019" "absent" 0
+"1507" "Poa alpina var. alpina" "p7-2019" "present" 1
+"1508" "Poa alpina var. alpina" "p8-2019" "present" 1
+"1509" "Poa alpina var. alpina" "p9-2019" "present" 1
+"1510" "Poa alpina var. alpina" "p10-2019" "absent" 0
+"1511" "Poa alpina var. alpina" "p11-2019" "absent" 0
+"1512" "Poa alpina var. alpina" "p12-2019" "absent" 0
+"1513" "Poa alpina var. alpina" "p13-2019" "present" 1
+"1514" "Poa alpina var. alpina" "p14-2019" "absent" 0
+"1515" "Poa alpina var. alpina" "p15-2019" "present" 1
+"1516" "Poa alpina var. alpina" "p1-2020" "absent" 0
+"1517" "Poa alpina var. alpina" "p2-2020" "absent" 0
+"1518" "Poa alpina var. alpina" "p3-2020" "absent" 0
+"1519" "Poa alpina var. alpina" "p4-2020" "present" 1
+"1520" "Poa alpina var. alpina" "p5-2020" "absent" 0
+"1521" "Poa alpina var. alpina" "p6-2020" "absent" 0
+"1522" "Poa alpina var. alpina" "p7-2020" "present" 1
+"1523" "Poa alpina var. alpina" "p8-2020" "present" 1
+"1524" "Poa alpina var. alpina" "p9-2020" "present" 1
+"1525" "Poa alpina var. alpina" "p10-2020" "present" 1
+"1526" "Poa alpina var. alpina" "p11-2020" "absent" 0
+"1527" "Poa alpina var. alpina" "p12-2020" "absent" 0
+"1528" "Poa alpina var. alpina" "p13-2020" "present" 1
+"1529" "Poa alpina var. alpina" "p14-2020" "absent" 0
+"1530" "Poa alpina var. alpina" "p15-2020" "present" 1
+"1531" "Poa compressa L." "p1-2009" "present" 1
+"1532" "Poa compressa L." "p2-2009" "present" 1
+"1533" "Poa compressa L." "p3-2009" "present" 1
+"1534" "Poa compressa L." "p4-2009" "present" 1
+"1535" "Poa compressa L." "p5-2009" "present" 1
+"1536" "Poa compressa L." "p6-2009" "present" 1
+"1537" "Poa compressa L." "p7-2009" "present" 1
+"1538" "Poa compressa L." "p8-2009" "present" 1
+"1539" "Poa compressa L." "p9-2009" "present" 1
+"1540" "Poa compressa L." "p10-2009" "present" 1
+"1541" "Poa compressa L." "p11-2009" "present" 1
+"1542" "Poa compressa L." "p12-2009" "present" 1
+"1543" "Poa compressa L." "p13-2009" "present" 1
+"1544" "Poa compressa L." "p14-2009" "present" 1
+"1545" "Poa compressa L." "p15-2009" "present" 1
+"1546" "Poa compressa L." "p1-2019" "present" 1
+"1547" "Poa compressa L." "p2-2019" "absent" 0
+"1548" "Poa compressa L." "p3-2019" "absent" 0
+"1549" "Poa compressa L." "p4-2019" "absent" 0
+"1550" "Poa compressa L." "p5-2019" "present" 1
+"1551" "Poa compressa L." "p6-2019" "present" 1
+"1552" "Poa compressa L." "p7-2019" "present" 1
+"1553" "Poa compressa L." "p8-2019" "present" 1
+"1554" "Poa compressa L." "p9-2019" "present" 1
+"1555" "Poa compressa L." "p10-2019" "present" 1
+"1556" "Poa compressa L." "p11-2019" "present" 1
+"1557" "Poa compressa L." "p12-2019" "present" 1
+"1558" "Poa compressa L." "p13-2019" "present" 1
+"1559" "Poa compressa L." "p14-2019" "present" 1
+"1560" "Poa compressa L." "p15-2019" "present" 1
+"1561" "Poa compressa L." "p1-2020" "present" 1
+"1562" "Poa compressa L." "p2-2020" "present" 1
+"1563" "Poa compressa L." "p3-2020" "present" 1
+"1564" "Poa compressa L." "p4-2020" "present" 1
+"1565" "Poa compressa L." "p5-2020" "present" 1
+"1566" "Poa compressa L." "p6-2020" "present" 1
+"1567" "Poa compressa L." "p7-2020" "present" 1
+"1568" "Poa compressa L." "p8-2020" "present" 1
+"1569" "Poa compressa L." "p9-2020" "present" 1
+"1570" "Poa compressa L." "p10-2020" "present" 1
+"1571" "Poa compressa L." "p11-2020" "present" 1
+"1572" "Poa compressa L." "p12-2020" "present" 1
+"1573" "Poa compressa L." "p13-2020" "present" 1
+"1574" "Poa compressa L." "p14-2020" "present" 1
+"1575" "Poa compressa L." "p15-2020" "present" 1
+"1576" "Polygonatum odoratum (Mill.) Druce" "p1-2009" "present" 1
+"1577" "Polygonatum odoratum (Mill.) Druce" "p2-2009" "present" 1
+"1578" "Polygonatum odoratum (Mill.) Druce" "p3-2009" "present" 1
+"1579" "Polygonatum odoratum (Mill.) Druce" "p4-2009" "present" 1
+"1580" "Polygonatum odoratum (Mill.) Druce" "p5-2009" "present" 1
+"1581" "Polygonatum odoratum (Mill.) Druce" "p6-2009" "present" 1
+"1582" "Polygonatum odoratum (Mill.) Druce" "p7-2009" "present" 1
+"1583" "Polygonatum odoratum (Mill.) Druce" "p8-2009" "present" 1
+"1584" "Polygonatum odoratum (Mill.) Druce" "p9-2009" "present" 1
+"1585" "Polygonatum odoratum (Mill.) Druce" "p10-2009" "present" 1
+"1586" "Polygonatum odoratum (Mill.) Druce" "p11-2009" "present" 1
+"1587" "Polygonatum odoratum (Mill.) Druce" "p12-2009" "present" 1
+"1588" "Polygonatum odoratum (Mill.) Druce" "p13-2009" "present" 1
+"1589" "Polygonatum odoratum (Mill.) Druce" "p14-2009" "present" 1
+"1590" "Polygonatum odoratum (Mill.) Druce" "p15-2009" "present" 1
+"1591" "Polygonatum odoratum (Mill.) Druce" "p1-2019" "present" 1
+"1592" "Polygonatum odoratum (Mill.) Druce" "p2-2019" "present" 1
+"1593" "Polygonatum odoratum (Mill.) Druce" "p3-2019" "present" 1
+"1594" "Polygonatum odoratum (Mill.) Druce" "p4-2019" "present" 1
+"1595" "Polygonatum odoratum (Mill.) Druce" "p5-2019" "present" 1
+"1596" "Polygonatum odoratum (Mill.) Druce" "p6-2019" "present" 1
+"1597" "Polygonatum odoratum (Mill.) Druce" "p7-2019" "present" 1
+"1598" "Polygonatum odoratum (Mill.) Druce" "p8-2019" "present" 1
+"1599" "Polygonatum odoratum (Mill.) Druce" "p9-2019" "present" 1
+"1600" "Polygonatum odoratum (Mill.) Druce" "p10-2019" "present" 1
+"1601" "Polygonatum odoratum (Mill.) Druce" "p11-2019" "absent" 0
+"1602" "Polygonatum odoratum (Mill.) Druce" "p12-2019" "present" 1
+"1603" "Polygonatum odoratum (Mill.) Druce" "p13-2019" "present" 1
+"1604" "Polygonatum odoratum (Mill.) Druce" "p14-2019" "present" 1
+"1605" "Polygonatum odoratum (Mill.) Druce" "p15-2019" "present" 1
+"1606" "Polygonatum odoratum (Mill.) Druce" "p1-2020" "present" 1
+"1607" "Polygonatum odoratum (Mill.) Druce" "p2-2020" "present" 1
+"1608" "Polygonatum odoratum (Mill.) Druce" "p3-2020" "present" 1
+"1609" "Polygonatum odoratum (Mill.) Druce" "p4-2020" "present" 1
+"1610" "Polygonatum odoratum (Mill.) Druce" "p5-2020" "present" 1
+"1611" "Polygonatum odoratum (Mill.) Druce" "p6-2020" "present" 1
+"1612" "Polygonatum odoratum (Mill.) Druce" "p7-2020" "present" 1
+"1613" "Polygonatum odoratum (Mill.) Druce" "p8-2020" "present" 1
+"1614" "Polygonatum odoratum (Mill.) Druce" "p9-2020" "present" 1
+"1615" "Polygonatum odoratum (Mill.) Druce" "p10-2020" "present" 1
+"1616" "Polygonatum odoratum (Mill.) Druce" "p11-2020" "absent" 0
+"1617" "Polygonatum odoratum (Mill.) Druce" "p12-2020" "present" 1
+"1618" "Polygonatum odoratum (Mill.) Druce" "p13-2020" "present" 1
+"1619" "Polygonatum odoratum (Mill.) Druce" "p14-2020" "present" 1
+"1620" "Polygonatum odoratum (Mill.) Druce" "p15-2020" "present" 1
+"1621" "Potentilla crantzii (Crantz) Beck" "p1-2009" "absent" 0
+"1622" "Potentilla crantzii (Crantz) Beck" "p2-2009" "absent" 0
+"1623" "Potentilla crantzii (Crantz) Beck" "p3-2009" "absent" 0
+"1624" "Potentilla crantzii (Crantz) Beck" "p4-2009" "absent" 0
+"1625" "Potentilla crantzii (Crantz) Beck" "p5-2009" "absent" 0
+"1626" "Potentilla crantzii (Crantz) Beck" "p6-2009" "absent" 0
+"1627" "Potentilla crantzii (Crantz) Beck" "p7-2009" "absent" 0
+"1628" "Potentilla crantzii (Crantz) Beck" "p8-2009" "absent" 0
+"1629" "Potentilla crantzii (Crantz) Beck" "p9-2009" "present" 1
+"1630" "Potentilla crantzii (Crantz) Beck" "p10-2009" "absent" 0
+"1631" "Potentilla crantzii (Crantz) Beck" "p11-2009" "absent" 0
+"1632" "Potentilla crantzii (Crantz) Beck" "p12-2009" "absent" 0
+"1633" "Potentilla crantzii (Crantz) Beck" "p13-2009" "absent" 0
+"1634" "Potentilla crantzii (Crantz) Beck" "p14-2009" "absent" 0
+"1635" "Potentilla crantzii (Crantz) Beck" "p15-2009" "absent" 0
+"1636" "Potentilla crantzii (Crantz) Beck" "p1-2019" "present" 1
+"1637" "Potentilla crantzii (Crantz) Beck" "p2-2019" "absent" 0
+"1638" "Potentilla crantzii (Crantz) Beck" "p3-2019" "absent" 0
+"1639" "Potentilla crantzii (Crantz) Beck" "p4-2019" "absent" 0
+"1640" "Potentilla crantzii (Crantz) Beck" "p5-2019" "absent" 0
+"1641" "Potentilla crantzii (Crantz) Beck" "p6-2019" "absent" 0
+"1642" "Potentilla crantzii (Crantz) Beck" "p7-2019" "absent" 0
+"1643" "Potentilla crantzii (Crantz) Beck" "p8-2019" "absent" 0
+"1644" "Potentilla crantzii (Crantz) Beck" "p9-2019" "absent" 0
+"1645" "Potentilla crantzii (Crantz) Beck" "p10-2019" "absent" 0
+"1646" "Potentilla crantzii (Crantz) Beck" "p11-2019" "absent" 0
+"1647" "Potentilla crantzii (Crantz) Beck" "p12-2019" "absent" 0
+"1648" "Potentilla crantzii (Crantz) Beck" "p13-2019" "absent" 0
+"1649" "Potentilla crantzii (Crantz) Beck" "p14-2019" "absent" 0
+"1650" "Potentilla crantzii (Crantz) Beck" "p15-2019" "absent" 0
+"1651" "Potentilla crantzii (Crantz) Beck" "p1-2020" "absent" 0
+"1652" "Potentilla crantzii (Crantz) Beck" "p2-2020" "absent" 0
+"1653" "Potentilla crantzii (Crantz) Beck" "p3-2020" "absent" 0
+"1654" "Potentilla crantzii (Crantz) Beck" "p4-2020" "absent" 0
+"1655" "Potentilla crantzii (Crantz) Beck" "p5-2020" "absent" 0
+"1656" "Potentilla crantzii (Crantz) Beck" "p6-2020" "absent" 0
+"1657" "Potentilla crantzii (Crantz) Beck" "p7-2020" "absent" 0
+"1658" "Potentilla crantzii (Crantz) Beck" "p8-2020" "absent" 0
+"1659" "Potentilla crantzii (Crantz) Beck" "p9-2020" "absent" 0
+"1660" "Potentilla crantzii (Crantz) Beck" "p10-2020" "absent" 0
+"1661" "Potentilla crantzii (Crantz) Beck" "p11-2020" "absent" 0
+"1662" "Potentilla crantzii (Crantz) Beck" "p12-2020" "absent" 0
+"1663" "Potentilla crantzii (Crantz) Beck" "p13-2020" "absent" 0
+"1664" "Potentilla crantzii (Crantz) Beck" "p14-2020" "absent" 0
+"1665" "Potentilla crantzii (Crantz) Beck" "p15-2020" "absent" 0
+"1666" "Rhamnus cathartica L." "p1-2009" "present" 1
+"1667" "Rhamnus cathartica L." "p2-2009" "present" 1
+"1668" "Rhamnus cathartica L." "p3-2009" "absent" 0
+"1669" "Rhamnus cathartica L." "p4-2009" "absent" 0
+"1670" "Rhamnus cathartica L." "p5-2009" "present" 1
+"1671" "Rhamnus cathartica L." "p6-2009" "absent" 0
+"1672" "Rhamnus cathartica L." "p7-2009" "present" 1
+"1673" "Rhamnus cathartica L." "p8-2009" "absent" 0
+"1674" "Rhamnus cathartica L." "p9-2009" "absent" 0
+"1675" "Rhamnus cathartica L." "p10-2009" "absent" 0
+"1676" "Rhamnus cathartica L." "p11-2009" "absent" 0
+"1677" "Rhamnus cathartica L." "p12-2009" "present" 1
+"1678" "Rhamnus cathartica L." "p13-2009" "present" 1
+"1679" "Rhamnus cathartica L." "p14-2009" "present" 1
+"1680" "Rhamnus cathartica L." "p15-2009" "absent" 0
+"1681" "Rhamnus cathartica L." "p1-2019" "present" 1
+"1682" "Rhamnus cathartica L." "p2-2019" "present" 1
+"1683" "Rhamnus cathartica L." "p3-2019" "present" 1
+"1684" "Rhamnus cathartica L." "p4-2019" "present" 1
+"1685" "Rhamnus cathartica L." "p5-2019" "present" 1
+"1686" "Rhamnus cathartica L." "p6-2019" "present" 1
+"1687" "Rhamnus cathartica L." "p7-2019" "present" 1
+"1688" "Rhamnus cathartica L." "p8-2019" "present" 1
+"1689" "Rhamnus cathartica L." "p9-2019" "present" 1
+"1690" "Rhamnus cathartica L." "p10-2019" "present" 1
+"1691" "Rhamnus cathartica L." "p11-2019" "absent" 0
+"1692" "Rhamnus cathartica L." "p12-2019" "present" 1
+"1693" "Rhamnus cathartica L." "p13-2019" "present" 1
+"1694" "Rhamnus cathartica L." "p14-2019" "present" 1
+"1695" "Rhamnus cathartica L." "p15-2019" "absent" 0
+"1696" "Rhamnus cathartica L." "p1-2020" "present" 1
+"1697" "Rhamnus cathartica L." "p2-2020" "present" 1
+"1698" "Rhamnus cathartica L." "p3-2020" "present" 1
+"1699" "Rhamnus cathartica L." "p4-2020" "present" 1
+"1700" "Rhamnus cathartica L." "p5-2020" "present" 1
+"1701" "Rhamnus cathartica L." "p6-2020" "present" 1
+"1702" "Rhamnus cathartica L." "p7-2020" "present" 1
+"1703" "Rhamnus cathartica L." "p8-2020" "present" 1
+"1704" "Rhamnus cathartica L." "p9-2020" "present" 1
+"1705" "Rhamnus cathartica L." "p10-2020" "present" 1
+"1706" "Rhamnus cathartica L." "p11-2020" "absent" 0
+"1707" "Rhamnus cathartica L." "p12-2020" "present" 1
+"1708" "Rhamnus cathartica L." "p13-2020" "present" 1
+"1709" "Rhamnus cathartica L." "p14-2020" "present" 1
+"1710" "Rhamnus cathartica L." "p15-2020" "absent" 0
+"1711" "Rosa majalis Herrm." "p1-2009" "absent" 0
+"1712" "Rosa majalis Herrm." "p2-2009" "absent" 0
+"1713" "Rosa majalis Herrm." "p3-2009" "absent" 0
+"1714" "Rosa majalis Herrm." "p4-2009" "absent" 0
+"1715" "Rosa majalis Herrm." "p5-2009" "absent" 0
+"1716" "Rosa majalis Herrm." "p6-2009" "absent" 0
+"1717" "Rosa majalis Herrm." "p7-2009" "absent" 0
+"1718" "Rosa majalis Herrm." "p8-2009" "absent" 0
+"1719" "Rosa majalis Herrm." "p9-2009" "absent" 0
+"1720" "Rosa majalis Herrm." "p10-2009" "absent" 0
+"1721" "Rosa majalis Herrm." "p11-2009" "absent" 0
+"1722" "Rosa majalis Herrm." "p12-2009" "absent" 0
+"1723" "Rosa majalis Herrm." "p13-2009" "present" 1
+"1724" "Rosa majalis Herrm." "p14-2009" "absent" 0
+"1725" "Rosa majalis Herrm." "p15-2009" "absent" 0
+"1726" "Rosa majalis Herrm." "p1-2019" "absent" 0
+"1727" "Rosa majalis Herrm." "p2-2019" "absent" 0
+"1728" "Rosa majalis Herrm." "p3-2019" "absent" 0
+"1729" "Rosa majalis Herrm." "p4-2019" "absent" 0
+"1730" "Rosa majalis Herrm." "p5-2019" "absent" 0
+"1731" "Rosa majalis Herrm." "p6-2019" "absent" 0
+"1732" "Rosa majalis Herrm." "p7-2019" "absent" 0
+"1733" "Rosa majalis Herrm." "p8-2019" "absent" 0
+"1734" "Rosa majalis Herrm." "p9-2019" "absent" 0
+"1735" "Rosa majalis Herrm." "p10-2019" "absent" 0
+"1736" "Rosa majalis Herrm." "p11-2019" "absent" 0
+"1737" "Rosa majalis Herrm." "p12-2019" "absent" 0
+"1738" "Rosa majalis Herrm." "p13-2019" "absent" 0
+"1739" "Rosa majalis Herrm." "p14-2019" "absent" 0
+"1740" "Rosa majalis Herrm." "p15-2019" "absent" 0
+"1741" "Rosa majalis Herrm." "p1-2020" "absent" 0
+"1742" "Rosa majalis Herrm." "p2-2020" "absent" 0
+"1743" "Rosa majalis Herrm." "p3-2020" "absent" 0
+"1744" "Rosa majalis Herrm." "p4-2020" "absent" 0
+"1745" "Rosa majalis Herrm." "p5-2020" "absent" 0
+"1746" "Rosa majalis Herrm." "p6-2020" "absent" 0
+"1747" "Rosa majalis Herrm." "p7-2020" "absent" 0
+"1748" "Rosa majalis Herrm." "p8-2020" "absent" 0
+"1749" "Rosa majalis Herrm." "p9-2020" "absent" 0
+"1750" "Rosa majalis Herrm." "p10-2020" "absent" 0
+"1751" "Rosa majalis Herrm." "p11-2020" "absent" 0
+"1752" "Rosa majalis Herrm." "p12-2020" "absent" 0
+"1753" "Rosa majalis Herrm." "p13-2020" "absent" 0
+"1754" "Rosa majalis Herrm." "p14-2020" "absent" 0
+"1755" "Rosa majalis Herrm." "p15-2020" "absent" 0
+"1756" "Saxifraga granulata L." "p1-2009" "absent" 0
+"1757" "Saxifraga granulata L." "p2-2009" "absent" 0
+"1758" "Saxifraga granulata L." "p3-2009" "absent" 0
+"1759" "Saxifraga granulata L." "p4-2009" "absent" 0
+"1760" "Saxifraga granulata L." "p5-2009" "absent" 0
+"1761" "Saxifraga granulata L." "p6-2009" "absent" 0
+"1762" "Saxifraga granulata L." "p7-2009" "absent" 0
+"1763" "Saxifraga granulata L." "p8-2009" "absent" 0
+"1764" "Saxifraga granulata L." "p9-2009" "absent" 0
+"1765" "Saxifraga granulata L." "p10-2009" "absent" 0
+"1766" "Saxifraga granulata L." "p11-2009" "absent" 0
+"1767" "Saxifraga granulata L." "p12-2009" "absent" 0
+"1768" "Saxifraga granulata L." "p13-2009" "absent" 0
+"1769" "Saxifraga granulata L." "p14-2009" "absent" 0
+"1770" "Saxifraga granulata L." "p15-2009" "absent" 0
+"1771" "Saxifraga granulata L." "p1-2019" "absent" 0
+"1772" "Saxifraga granulata L." "p2-2019" "absent" 0
+"1773" "Saxifraga granulata L." "p3-2019" "absent" 0
+"1774" "Saxifraga granulata L." "p4-2019" "absent" 0
+"1775" "Saxifraga granulata L." "p5-2019" "absent" 0
+"1776" "Saxifraga granulata L." "p6-2019" "absent" 0
+"1777" "Saxifraga granulata L." "p7-2019" "absent" 0
+"1778" "Saxifraga granulata L." "p8-2019" "absent" 0
+"1779" "Saxifraga granulata L." "p9-2019" "absent" 0
+"1780" "Saxifraga granulata L." "p10-2019" "absent" 0
+"1781" "Saxifraga granulata L." "p11-2019" "absent" 0
+"1782" "Saxifraga granulata L." "p12-2019" "absent" 0
+"1783" "Saxifraga granulata L." "p13-2019" "absent" 0
+"1784" "Saxifraga granulata L." "p14-2019" "absent" 0
+"1785" "Saxifraga granulata L." "p15-2019" "absent" 0
+"1786" "Saxifraga granulata L." "p1-2020" "absent" 0
+"1787" "Saxifraga granulata L." "p2-2020" "absent" 0
+"1788" "Saxifraga granulata L." "p3-2020" "absent" 0
+"1789" "Saxifraga granulata L." "p4-2020" "absent" 0
+"1790" "Saxifraga granulata L." "p5-2020" "absent" 0
+"1791" "Saxifraga granulata L." "p6-2020" "absent" 0
+"1792" "Saxifraga granulata L." "p7-2020" "absent" 0
+"1793" "Saxifraga granulata L." "p8-2020" "absent" 0
+"1794" "Saxifraga granulata L." "p9-2020" "absent" 0
+"1795" "Saxifraga granulata L." "p10-2020" "absent" 0
+"1796" "Saxifraga granulata L." "p11-2020" "absent" 0
+"1797" "Saxifraga granulata L." "p12-2020" "absent" 0
+"1798" "Saxifraga granulata L." "p13-2020" "absent" 0
+"1799" "Saxifraga granulata L." "p14-2020" "absent" 0
+"1800" "Saxifraga granulata L." "p15-2020" "absent" 0
+"1801" "Saxifraga osloënsis Knaben" "p1-2009" "absent" 0
+"1802" "Saxifraga osloënsis Knaben" "p2-2009" "absent" 0
+"1803" "Saxifraga osloënsis Knaben" "p3-2009" "absent" 0
+"1804" "Saxifraga osloënsis Knaben" "p4-2009" "absent" 0
+"1805" "Saxifraga osloënsis Knaben" "p5-2009" "absent" 0
+"1806" "Saxifraga osloënsis Knaben" "p6-2009" "absent" 0
+"1807" "Saxifraga osloënsis Knaben" "p7-2009" "absent" 0
+"1808" "Saxifraga osloënsis Knaben" "p8-2009" "absent" 0
+"1809" "Saxifraga osloënsis Knaben" "p9-2009" "absent" 0
+"1810" "Saxifraga osloënsis Knaben" "p10-2009" "absent" 0
+"1811" "Saxifraga osloënsis Knaben" "p11-2009" "absent" 0
+"1812" "Saxifraga osloënsis Knaben" "p12-2009" "absent" 0
+"1813" "Saxifraga osloënsis Knaben" "p13-2009" "absent" 0
+"1814" "Saxifraga osloënsis Knaben" "p14-2009" "absent" 0
+"1815" "Saxifraga osloënsis Knaben" "p15-2009" "absent" 0
+"1816" "Saxifraga osloënsis Knaben" "p1-2019" "absent" 0
+"1817" "Saxifraga osloënsis Knaben" "p2-2019" "absent" 0
+"1818" "Saxifraga osloënsis Knaben" "p3-2019" "absent" 0
+"1819" "Saxifraga osloënsis Knaben" "p4-2019" "absent" 0
+"1820" "Saxifraga osloënsis Knaben" "p5-2019" "absent" 0
+"1821" "Saxifraga osloënsis Knaben" "p6-2019" "absent" 0
+"1822" "Saxifraga osloënsis Knaben" "p7-2019" "absent" 0
+"1823" "Saxifraga osloënsis Knaben" "p8-2019" "absent" 0
+"1824" "Saxifraga osloënsis Knaben" "p9-2019" "absent" 0
+"1825" "Saxifraga osloënsis Knaben" "p10-2019" "absent" 0
+"1826" "Saxifraga osloënsis Knaben" "p11-2019" "absent" 0
+"1827" "Saxifraga osloënsis Knaben" "p12-2019" "absent" 0
+"1828" "Saxifraga osloënsis Knaben" "p13-2019" "absent" 0
+"1829" "Saxifraga osloënsis Knaben" "p14-2019" "absent" 0
+"1830" "Saxifraga osloënsis Knaben" "p15-2019" "absent" 0
+"1831" "Saxifraga osloënsis Knaben" "p1-2020" "absent" 0
+"1832" "Saxifraga osloënsis Knaben" "p2-2020" "absent" 0
+"1833" "Saxifraga osloënsis Knaben" "p3-2020" "absent" 0
+"1834" "Saxifraga osloënsis Knaben" "p4-2020" "absent" 0
+"1835" "Saxifraga osloënsis Knaben" "p5-2020" "absent" 0
+"1836" "Saxifraga osloënsis Knaben" "p6-2020" "absent" 0
+"1837" "Saxifraga osloënsis Knaben" "p7-2020" "absent" 0
+"1838" "Saxifraga osloënsis Knaben" "p8-2020" "absent" 0
+"1839" "Saxifraga osloënsis Knaben" "p9-2020" "absent" 0
+"1840" "Saxifraga osloënsis Knaben" "p10-2020" "absent" 0
+"1841" "Saxifraga osloënsis Knaben" "p11-2020" "absent" 0
+"1842" "Saxifraga osloënsis Knaben" "p12-2020" "absent" 0
+"1843" "Saxifraga osloënsis Knaben" "p13-2020" "absent" 0
+"1844" "Saxifraga osloënsis Knaben" "p14-2020" "absent" 0
+"1845" "Saxifraga osloënsis Knaben" "p15-2020" "absent" 0
+"1846" "Saxifraga tridactylites L." "p1-2009" "present" 1
+"1847" "Saxifraga tridactylites L." "p2-2009" "present" 1
+"1848" "Saxifraga tridactylites L." "p3-2009" "absent" 0
+"1849" "Saxifraga tridactylites L." "p4-2009" "present" 1
+"1850" "Saxifraga tridactylites L." "p5-2009" "absent" 0
+"1851" "Saxifraga tridactylites L." "p6-2009" "present" 1
+"1852" "Saxifraga tridactylites L." "p7-2009" "present" 1
+"1853" "Saxifraga tridactylites L." "p8-2009" "present" 1
+"1854" "Saxifraga tridactylites L." "p9-2009" "absent" 0
+"1855" "Saxifraga tridactylites L." "p10-2009" "present" 1
+"1856" "Saxifraga tridactylites L." "p11-2009" "absent" 0
+"1857" "Saxifraga tridactylites L." "p12-2009" "absent" 0
+"1858" "Saxifraga tridactylites L." "p13-2009" "present" 1
+"1859" "Saxifraga tridactylites L." "p14-2009" "absent" 0
+"1860" "Saxifraga tridactylites L." "p15-2009" "absent" 0
+"1861" "Saxifraga tridactylites L." "p1-2019" "absent" 0
+"1862" "Saxifraga tridactylites L." "p2-2019" "absent" 0
+"1863" "Saxifraga tridactylites L." "p3-2019" "absent" 0
+"1864" "Saxifraga tridactylites L." "p4-2019" "absent" 0
+"1865" "Saxifraga tridactylites L." "p5-2019" "absent" 0
+"1866" "Saxifraga tridactylites L." "p6-2019" "absent" 0
+"1867" "Saxifraga tridactylites L." "p7-2019" "absent" 0
+"1868" "Saxifraga tridactylites L." "p8-2019" "absent" 0
+"1869" "Saxifraga tridactylites L." "p9-2019" "absent" 0
+"1870" "Saxifraga tridactylites L." "p10-2019" "absent" 0
+"1871" "Saxifraga tridactylites L." "p11-2019" "absent" 0
+"1872" "Saxifraga tridactylites L." "p12-2019" "absent" 0
+"1873" "Saxifraga tridactylites L." "p13-2019" "absent" 0
+"1874" "Saxifraga tridactylites L." "p14-2019" "absent" 0
+"1875" "Saxifraga tridactylites L." "p15-2019" "absent" 0
+"1876" "Saxifraga tridactylites L." "p1-2020" "absent" 0
+"1877" "Saxifraga tridactylites L." "p2-2020" "present" 1
+"1878" "Saxifraga tridactylites L." "p3-2020" "absent" 0
+"1879" "Saxifraga tridactylites L." "p4-2020" "present" 1
+"1880" "Saxifraga tridactylites L." "p5-2020" "absent" 0
+"1881" "Saxifraga tridactylites L." "p6-2020" "absent" 0
+"1882" "Saxifraga tridactylites L." "p7-2020" "present" 1
+"1883" "Saxifraga tridactylites L." "p8-2020" "present" 1
+"1884" "Saxifraga tridactylites L." "p9-2020" "present" 1
+"1885" "Saxifraga tridactylites L." "p10-2020" "present" 1
+"1886" "Saxifraga tridactylites L." "p11-2020" "absent" 0
+"1887" "Saxifraga tridactylites L." "p12-2020" "present" 1
+"1888" "Saxifraga tridactylites L." "p13-2020" "present" 1
+"1889" "Saxifraga tridactylites L." "p14-2020" "absent" 0
+"1890" "Saxifraga tridactylites L." "p15-2020" "present" 1
+"1891" "Scleranthus perennis L." "p1-2009" "present" 1
+"1892" "Scleranthus perennis L." "p2-2009" "present" 1
+"1893" "Scleranthus perennis L." "p3-2009" "present" 1
+"1894" "Scleranthus perennis L." "p4-2009" "present" 1
+"1895" "Scleranthus perennis L." "p5-2009" "present" 1
+"1896" "Scleranthus perennis L." "p6-2009" "absent" 0
+"1897" "Scleranthus perennis L." "p7-2009" "present" 1
+"1898" "Scleranthus perennis L." "p8-2009" "present" 1
+"1899" "Scleranthus perennis L." "p9-2009" "present" 1
+"1900" "Scleranthus perennis L." "p10-2009" "present" 1
+"1901" "Scleranthus perennis L." "p11-2009" "present" 1
+"1902" "Scleranthus perennis L." "p12-2009" "absent" 0
+"1903" "Scleranthus perennis L." "p13-2009" "present" 1
+"1904" "Scleranthus perennis L." "p14-2009" "absent" 0
+"1905" "Scleranthus perennis L." "p15-2009" "absent" 0
+"1906" "Scleranthus perennis L." "p1-2019" "present" 1
+"1907" "Scleranthus perennis L." "p2-2019" "present" 1
+"1908" "Scleranthus perennis L." "p3-2019" "absent" 0
+"1909" "Scleranthus perennis L." "p4-2019" "absent" 0
+"1910" "Scleranthus perennis L." "p5-2019" "present" 1
+"1911" "Scleranthus perennis L." "p6-2019" "absent" 0
+"1912" "Scleranthus perennis L." "p7-2019" "present" 1
+"1913" "Scleranthus perennis L." "p8-2019" "absent" 0
+"1914" "Scleranthus perennis L." "p9-2019" "absent" 0
+"1915" "Scleranthus perennis L." "p10-2019" "present" 1
+"1916" "Scleranthus perennis L." "p11-2019" "absent" 0
+"1917" "Scleranthus perennis L." "p12-2019" "present" 1
+"1918" "Scleranthus perennis L." "p13-2019" "present" 1
+"1919" "Scleranthus perennis L." "p14-2019" "present" 1
+"1920" "Scleranthus perennis L." "p15-2019" "absent" 0
+"1921" "Scleranthus perennis L." "p1-2020" "present" 1
+"1922" "Scleranthus perennis L." "p2-2020" "present" 1
+"1923" "Scleranthus perennis L." "p3-2020" "absent" 0
+"1924" "Scleranthus perennis L." "p4-2020" "present" 1
+"1925" "Scleranthus perennis L." "p5-2020" "absent" 0
+"1926" "Scleranthus perennis L." "p6-2020" "absent" 0
+"1927" "Scleranthus perennis L." "p7-2020" "present" 1
+"1928" "Scleranthus perennis L." "p8-2020" "absent" 0
+"1929" "Scleranthus perennis L." "p9-2020" "present" 1
+"1930" "Scleranthus perennis L." "p10-2020" "present" 1
+"1931" "Scleranthus perennis L." "p11-2020" "absent" 0
+"1932" "Scleranthus perennis L." "p12-2020" "present" 1
+"1933" "Scleranthus perennis L." "p13-2020" "present" 1
+"1934" "Scleranthus perennis L." "p14-2020" "present" 1
+"1935" "Scleranthus perennis L." "p15-2020" "present" 1
+"1936" "Seseli libanotis (L.) W.D.J.Koch" "p1-2009" "present" 1
+"1937" "Seseli libanotis (L.) W.D.J.Koch" "p2-2009" "present" 1
+"1938" "Seseli libanotis (L.) W.D.J.Koch" "p3-2009" "present" 1
+"1939" "Seseli libanotis (L.) W.D.J.Koch" "p4-2009" "present" 1
+"1940" "Seseli libanotis (L.) W.D.J.Koch" "p5-2009" "absent" 0
+"1941" "Seseli libanotis (L.) W.D.J.Koch" "p6-2009" "present" 1
+"1942" "Seseli libanotis (L.) W.D.J.Koch" "p7-2009" "present" 1
+"1943" "Seseli libanotis (L.) W.D.J.Koch" "p8-2009" "present" 1
+"1944" "Seseli libanotis (L.) W.D.J.Koch" "p9-2009" "present" 1
+"1945" "Seseli libanotis (L.) W.D.J.Koch" "p10-2009" "present" 1
+"1946" "Seseli libanotis (L.) W.D.J.Koch" "p11-2009" "present" 1
+"1947" "Seseli libanotis (L.) W.D.J.Koch" "p12-2009" "present" 1
+"1948" "Seseli libanotis (L.) W.D.J.Koch" "p13-2009" "present" 1
+"1949" "Seseli libanotis (L.) W.D.J.Koch" "p14-2009" "absent" 0
+"1950" "Seseli libanotis (L.) W.D.J.Koch" "p15-2009" "absent" 0
+"1951" "Seseli libanotis (L.) W.D.J.Koch" "p1-2019" "present" 1
+"1952" "Seseli libanotis (L.) W.D.J.Koch" "p2-2019" "present" 1
+"1953" "Seseli libanotis (L.) W.D.J.Koch" "p3-2019" "present" 1
+"1954" "Seseli libanotis (L.) W.D.J.Koch" "p4-2019" "present" 1
+"1955" "Seseli libanotis (L.) W.D.J.Koch" "p5-2019" "absent" 0
+"1956" "Seseli libanotis (L.) W.D.J.Koch" "p6-2019" "present" 1
+"1957" "Seseli libanotis (L.) W.D.J.Koch" "p7-2019" "present" 1
+"1958" "Seseli libanotis (L.) W.D.J.Koch" "p8-2019" "present" 1
+"1959" "Seseli libanotis (L.) W.D.J.Koch" "p9-2019" "present" 1
+"1960" "Seseli libanotis (L.) W.D.J.Koch" "p10-2019" "present" 1
+"1961" "Seseli libanotis (L.) W.D.J.Koch" "p11-2019" "present" 1
+"1962" "Seseli libanotis (L.) W.D.J.Koch" "p12-2019" "present" 1
+"1963" "Seseli libanotis (L.) W.D.J.Koch" "p13-2019" "present" 1
+"1964" "Seseli libanotis (L.) W.D.J.Koch" "p14-2019" "present" 1
+"1965" "Seseli libanotis (L.) W.D.J.Koch" "p15-2019" "present" 1
+"1966" "Seseli libanotis (L.) W.D.J.Koch" "p1-2020" "present" 1
+"1967" "Seseli libanotis (L.) W.D.J.Koch" "p2-2020" "present" 1
+"1968" "Seseli libanotis (L.) W.D.J.Koch" "p3-2020" "present" 1
+"1969" "Seseli libanotis (L.) W.D.J.Koch" "p4-2020" "present" 1
+"1970" "Seseli libanotis (L.) W.D.J.Koch" "p5-2020" "present" 1
+"1971" "Seseli libanotis (L.) W.D.J.Koch" "p6-2020" "present" 1
+"1972" "Seseli libanotis (L.) W.D.J.Koch" "p7-2020" "present" 1
+"1973" "Seseli libanotis (L.) W.D.J.Koch" "p8-2020" "present" 1
+"1974" "Seseli libanotis (L.) W.D.J.Koch" "p9-2020" "present" 1
+"1975" "Seseli libanotis (L.) W.D.J.Koch" "p10-2020" "present" 1
+"1976" "Seseli libanotis (L.) W.D.J.Koch" "p11-2020" "present" 1
+"1977" "Seseli libanotis (L.) W.D.J.Koch" "p12-2020" "present" 1
+"1978" "Seseli libanotis (L.) W.D.J.Koch" "p13-2020" "present" 1
+"1979" "Seseli libanotis (L.) W.D.J.Koch" "p14-2020" "present" 1
+"1980" "Seseli libanotis (L.) W.D.J.Koch" "p15-2020" "present" 1
+"1981" "Silene nutans L." "p1-2009" "present" 1
+"1982" "Silene nutans L." "p2-2009" "absent" 0
+"1983" "Silene nutans L." "p3-2009" "present" 1
+"1984" "Silene nutans L." "p4-2009" "absent" 0
+"1985" "Silene nutans L." "p5-2009" "present" 1
+"1986" "Silene nutans L." "p6-2009" "absent" 0
+"1987" "Silene nutans L." "p7-2009" "present" 1
+"1988" "Silene nutans L." "p8-2009" "present" 1
+"1989" "Silene nutans L." "p9-2009" "absent" 0
+"1990" "Silene nutans L." "p10-2009" "present" 1
+"1991" "Silene nutans L." "p11-2009" "absent" 0
+"1992" "Silene nutans L." "p12-2009" "absent" 0
+"1993" "Silene nutans L." "p13-2009" "present" 1
+"1994" "Silene nutans L." "p14-2009" "present" 1
+"1995" "Silene nutans L." "p15-2009" "present" 1
+"1996" "Silene nutans L." "p1-2019" "absent" 0
+"1997" "Silene nutans L." "p2-2019" "present" 1
+"1998" "Silene nutans L." "p3-2019" "present" 1
+"1999" "Silene nutans L." "p4-2019" "present" 1
+"2000" "Silene nutans L." "p5-2019" "present" 1
+"2001" "Silene nutans L." "p6-2019" "present" 1
+"2002" "Silene nutans L." "p7-2019" "present" 1
+"2003" "Silene nutans L." "p8-2019" "absent" 0
+"2004" "Silene nutans L." "p9-2019" "present" 1
+"2005" "Silene nutans L." "p10-2019" "present" 1
+"2006" "Silene nutans L." "p11-2019" "present" 1
+"2007" "Silene nutans L." "p12-2019" "absent" 0
+"2008" "Silene nutans L." "p13-2019" "present" 1
+"2009" "Silene nutans L." "p14-2019" "present" 1
+"2010" "Silene nutans L." "p15-2019" "present" 1
+"2011" "Silene nutans L." "p1-2020" "present" 1
+"2012" "Silene nutans L." "p2-2020" "present" 1
+"2013" "Silene nutans L." "p3-2020" "present" 1
+"2014" "Silene nutans L." "p4-2020" "present" 1
+"2015" "Silene nutans L." "p5-2020" "present" 1
+"2016" "Silene nutans L." "p6-2020" "present" 1
+"2017" "Silene nutans L." "p7-2020" "present" 1
+"2018" "Silene nutans L." "p8-2020" "present" 1
+"2019" "Silene nutans L." "p9-2020" "present" 1
+"2020" "Silene nutans L." "p10-2020" "present" 1
+"2021" "Silene nutans L." "p11-2020" "present" 1
+"2022" "Silene nutans L." "p12-2020" "present" 1
+"2023" "Silene nutans L." "p13-2020" "present" 1
+"2024" "Silene nutans L." "p14-2020" "present" 1
+"2025" "Silene nutans L." "p15-2020" "present" 1
+"2026" "Thymus pulegioides L." "p1-2009" "present" 1
+"2027" "Thymus pulegioides L." "p2-2009" "present" 1
+"2028" "Thymus pulegioides L." "p3-2009" "present" 1
+"2029" "Thymus pulegioides L." "p4-2009" "present" 1
+"2030" "Thymus pulegioides L." "p5-2009" "present" 1
+"2031" "Thymus pulegioides L." "p6-2009" "present" 1
+"2032" "Thymus pulegioides L." "p7-2009" "present" 1
+"2033" "Thymus pulegioides L." "p8-2009" "absent" 0
+"2034" "Thymus pulegioides L." "p9-2009" "present" 1
+"2035" "Thymus pulegioides L." "p10-2009" "present" 1
+"2036" "Thymus pulegioides L." "p11-2009" "present" 1
+"2037" "Thymus pulegioides L." "p12-2009" "present" 1
+"2038" "Thymus pulegioides L." "p13-2009" "present" 1
+"2039" "Thymus pulegioides L." "p14-2009" "present" 1
+"2040" "Thymus pulegioides L." "p15-2009" "present" 1
+"2041" "Thymus pulegioides L." "p1-2019" "present" 1
+"2042" "Thymus pulegioides L." "p2-2019" "present" 1
+"2043" "Thymus pulegioides L." "p3-2019" "present" 1
+"2044" "Thymus pulegioides L." "p4-2019" "present" 1
+"2045" "Thymus pulegioides L." "p5-2019" "present" 1
+"2046" "Thymus pulegioides L." "p6-2019" "present" 1
+"2047" "Thymus pulegioides L." "p7-2019" "present" 1
+"2048" "Thymus pulegioides L." "p8-2019" "present" 1
+"2049" "Thymus pulegioides L." "p9-2019" "present" 1
+"2050" "Thymus pulegioides L." "p10-2019" "present" 1
+"2051" "Thymus pulegioides L." "p11-2019" "present" 1
+"2052" "Thymus pulegioides L." "p12-2019" "present" 1
+"2053" "Thymus pulegioides L." "p13-2019" "present" 1
+"2054" "Thymus pulegioides L." "p14-2019" "present" 1
+"2055" "Thymus pulegioides L." "p15-2019" "present" 1
+"2056" "Thymus pulegioides L." "p1-2020" "present" 1
+"2057" "Thymus pulegioides L." "p2-2020" "present" 1
+"2058" "Thymus pulegioides L." "p3-2020" "present" 1
+"2059" "Thymus pulegioides L." "p4-2020" "present" 1
+"2060" "Thymus pulegioides L." "p5-2020" "present" 1
+"2061" "Thymus pulegioides L." "p6-2020" "present" 1
+"2062" "Thymus pulegioides L." "p7-2020" "present" 1
+"2063" "Thymus pulegioides L." "p8-2020" "present" 1
+"2064" "Thymus pulegioides L." "p9-2020" "present" 1
+"2065" "Thymus pulegioides L." "p10-2020" "present" 1
+"2066" "Thymus pulegioides L." "p11-2020" "present" 1
+"2067" "Thymus pulegioides L." "p12-2020" "present" 1
+"2068" "Thymus pulegioides L." "p13-2020" "present" 1
+"2069" "Thymus pulegioides L." "p14-2020" "present" 1
+"2070" "Thymus pulegioides L." "p15-2020" "present" 1
+"2071" "Veronica arvensis L." "p1-2009" "absent" 0
+"2072" "Veronica arvensis L." "p2-2009" "absent" 0
+"2073" "Veronica arvensis L." "p3-2009" "absent" 0
+"2074" "Veronica arvensis L." "p4-2009" "absent" 0
+"2075" "Veronica arvensis L." "p5-2009" "present" 1
+"2076" "Veronica arvensis L." "p6-2009" "absent" 0
+"2077" "Veronica arvensis L." "p7-2009" "present" 1
+"2078" "Veronica arvensis L." "p8-2009" "absent" 0
+"2079" "Veronica arvensis L." "p9-2009" "absent" 0
+"2080" "Veronica arvensis L." "p10-2009" "present" 1
+"2081" "Veronica arvensis L." "p11-2009" "absent" 0
+"2082" "Veronica arvensis L." "p12-2009" "absent" 0
+"2083" "Veronica arvensis L." "p13-2009" "absent" 0
+"2084" "Veronica arvensis L." "p14-2009" "absent" 0
+"2085" "Veronica arvensis L." "p15-2009" "absent" 0
+"2086" "Veronica arvensis L." "p1-2019" "absent" 0
+"2087" "Veronica arvensis L." "p2-2019" "absent" 0
+"2088" "Veronica arvensis L." "p3-2019" "absent" 0
+"2089" "Veronica arvensis L." "p4-2019" "absent" 0
+"2090" "Veronica arvensis L." "p5-2019" "absent" 0
+"2091" "Veronica arvensis L." "p6-2019" "absent" 0
+"2092" "Veronica arvensis L." "p7-2019" "absent" 0
+"2093" "Veronica arvensis L." "p8-2019" "absent" 0
+"2094" "Veronica arvensis L." "p9-2019" "absent" 0
+"2095" "Veronica arvensis L." "p10-2019" "absent" 0
+"2096" "Veronica arvensis L." "p11-2019" "absent" 0
+"2097" "Veronica arvensis L." "p12-2019" "absent" 0
+"2098" "Veronica arvensis L." "p13-2019" "absent" 0
+"2099" "Veronica arvensis L." "p14-2019" "absent" 0
+"2100" "Veronica arvensis L." "p15-2019" "absent" 0
+"2101" "Veronica arvensis L." "p1-2020" "absent" 0
+"2102" "Veronica arvensis L." "p2-2020" "absent" 0
+"2103" "Veronica arvensis L." "p3-2020" "absent" 0
+"2104" "Veronica arvensis L." "p4-2020" "present" 1
+"2105" "Veronica arvensis L." "p5-2020" "absent" 0
+"2106" "Veronica arvensis L." "p6-2020" "present" 1
+"2107" "Veronica arvensis L." "p7-2020" "present" 1
+"2108" "Veronica arvensis L." "p8-2020" "absent" 0
+"2109" "Veronica arvensis L." "p9-2020" "absent" 0
+"2110" "Veronica arvensis L." "p10-2020" "present" 1
+"2111" "Veronica arvensis L." "p11-2020" "present" 1
+"2112" "Veronica arvensis L." "p12-2020" "absent" 0
+"2113" "Veronica arvensis L." "p13-2020" "absent" 0
+"2114" "Veronica arvensis L." "p14-2020" "absent" 0
+"2115" "Veronica arvensis L." "p15-2020" "present" 1
+"2116" "Veronica spicata L." "p1-2009" "present" 1
+"2117" "Veronica spicata L." "p2-2009" "present" 1
+"2118" "Veronica spicata L." "p3-2009" "present" 1
+"2119" "Veronica spicata L." "p4-2009" "present" 1
+"2120" "Veronica spicata L." "p5-2009" "present" 1
+"2121" "Veronica spicata L." "p6-2009" "present" 1
+"2122" "Veronica spicata L." "p7-2009" "present" 1
+"2123" "Veronica spicata L." "p8-2009" "present" 1
+"2124" "Veronica spicata L." "p9-2009" "present" 1
+"2125" "Veronica spicata L." "p10-2009" "present" 1
+"2126" "Veronica spicata L." "p11-2009" "present" 1
+"2127" "Veronica spicata L." "p12-2009" "present" 1
+"2128" "Veronica spicata L." "p13-2009" "present" 1
+"2129" "Veronica spicata L." "p14-2009" "present" 1
+"2130" "Veronica spicata L." "p15-2009" "present" 1
+"2131" "Veronica spicata L." "p1-2019" "present" 1
+"2132" "Veronica spicata L." "p2-2019" "present" 1
+"2133" "Veronica spicata L." "p3-2019" "absent" 0
+"2134" "Veronica spicata L." "p4-2019" "present" 1
+"2135" "Veronica spicata L." "p5-2019" "present" 1
+"2136" "Veronica spicata L." "p6-2019" "present" 1
+"2137" "Veronica spicata L." "p7-2019" "present" 1
+"2138" "Veronica spicata L." "p8-2019" "present" 1
+"2139" "Veronica spicata L." "p9-2019" "present" 1
+"2140" "Veronica spicata L." "p10-2019" "present" 1
+"2141" "Veronica spicata L." "p11-2019" "present" 1
+"2142" "Veronica spicata L." "p12-2019" "present" 1
+"2143" "Veronica spicata L." "p13-2019" "present" 1
+"2144" "Veronica spicata L." "p14-2019" "present" 1
+"2145" "Veronica spicata L." "p15-2019" "present" 1
+"2146" "Veronica spicata L." "p1-2020" "present" 1
+"2147" "Veronica spicata L." "p2-2020" "present" 1
+"2148" "Veronica spicata L." "p3-2020" "absent" 0
+"2149" "Veronica spicata L." "p4-2020" "present" 1
+"2150" "Veronica spicata L." "p5-2020" "present" 1
+"2151" "Veronica spicata L." "p6-2020" "present" 1
+"2152" "Veronica spicata L." "p7-2020" "present" 1
+"2153" "Veronica spicata L." "p8-2020" "present" 1
+"2154" "Veronica spicata L." "p9-2020" "present" 1
+"2155" "Veronica spicata L." "p10-2020" "present" 1
+"2156" "Veronica spicata L." "p11-2020" "present" 1
+"2157" "Veronica spicata L." "p12-2020" "present" 1
+"2158" "Veronica spicata L." "p13-2020" "present" 1
+"2159" "Veronica spicata L." "p14-2020" "present" 1
+"2160" "Veronica spicata L." "p15-2020" "present" 1
+"2161" "Woodsia alpina (Bolton) Gray" "p1-2009" "absent" 0
+"2162" "Woodsia alpina (Bolton) Gray" "p2-2009" "absent" 0
+"2163" "Woodsia alpina (Bolton) Gray" "p3-2009" "absent" 0
+"2164" "Woodsia alpina (Bolton) Gray" "p4-2009" "absent" 0
+"2165" "Woodsia alpina (Bolton) Gray" "p5-2009" "absent" 0
+"2166" "Woodsia alpina (Bolton) Gray" "p6-2009" "absent" 0
+"2167" "Woodsia alpina (Bolton) Gray" "p7-2009" "present" 1
+"2168" "Woodsia alpina (Bolton) Gray" "p8-2009" "absent" 0
+"2169" "Woodsia alpina (Bolton) Gray" "p9-2009" "absent" 0
+"2170" "Woodsia alpina (Bolton) Gray" "p10-2009" "absent" 0
+"2171" "Woodsia alpina (Bolton) Gray" "p11-2009" "absent" 0
+"2172" "Woodsia alpina (Bolton) Gray" "p12-2009" "absent" 0
+"2173" "Woodsia alpina (Bolton) Gray" "p13-2009" "present" 1
+"2174" "Woodsia alpina (Bolton) Gray" "p14-2009" "absent" 0
+"2175" "Woodsia alpina (Bolton) Gray" "p15-2009" "absent" 0
+"2176" "Woodsia alpina (Bolton) Gray" "p1-2019" "absent" 0
+"2177" "Woodsia alpina (Bolton) Gray" "p2-2019" "absent" 0
+"2178" "Woodsia alpina (Bolton) Gray" "p3-2019" "absent" 0
+"2179" "Woodsia alpina (Bolton) Gray" "p4-2019" "absent" 0
+"2180" "Woodsia alpina (Bolton) Gray" "p5-2019" "absent" 0
+"2181" "Woodsia alpina (Bolton) Gray" "p6-2019" "absent" 0
+"2182" "Woodsia alpina (Bolton) Gray" "p7-2019" "present" 1
+"2183" "Woodsia alpina (Bolton) Gray" "p8-2019" "absent" 0
+"2184" "Woodsia alpina (Bolton) Gray" "p9-2019" "absent" 0
+"2185" "Woodsia alpina (Bolton) Gray" "p10-2019" "absent" 0
+"2186" "Woodsia alpina (Bolton) Gray" "p11-2019" "absent" 0
+"2187" "Woodsia alpina (Bolton) Gray" "p12-2019" "absent" 0
+"2188" "Woodsia alpina (Bolton) Gray" "p13-2019" "present" 1
+"2189" "Woodsia alpina (Bolton) Gray" "p14-2019" "absent" 0
+"2190" "Woodsia alpina (Bolton) Gray" "p15-2019" "absent" 0
+"2191" "Woodsia alpina (Bolton) Gray" "p1-2020" "absent" 0
+"2192" "Woodsia alpina (Bolton) Gray" "p2-2020" "absent" 0
+"2193" "Woodsia alpina (Bolton) Gray" "p3-2020" "absent" 0
+"2194" "Woodsia alpina (Bolton) Gray" "p4-2020" "absent" 0
+"2195" "Woodsia alpina (Bolton) Gray" "p5-2020" "absent" 0
+"2196" "Woodsia alpina (Bolton) Gray" "p6-2020" "absent" 0
+"2197" "Woodsia alpina (Bolton) Gray" "p7-2020" "present" 1
+"2198" "Woodsia alpina (Bolton) Gray" "p8-2020" "absent" 0
+"2199" "Woodsia alpina (Bolton) Gray" "p9-2020" "absent" 0
+"2200" "Woodsia alpina (Bolton) Gray" "p10-2020" "absent" 0
+"2201" "Woodsia alpina (Bolton) Gray" "p11-2020" "absent" 0
+"2202" "Woodsia alpina (Bolton) Gray" "p12-2020" "absent" 0
+"2203" "Woodsia alpina (Bolton) Gray" "p13-2020" "present" 1
+"2204" "Woodsia alpina (Bolton) Gray" "p14-2020" "absent" 0
+"2205" "Woodsia alpina (Bolton) Gray" "p15-2020" "absent" 0
