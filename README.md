@@ -19,6 +19,7 @@ Submit an [issue](https://github.com/evalieungh/gressholmen_data/issues/new) if 
 | polygondata.csv | Additional information per polygon; p1-p15 correspond to polygons 1-15, or 35_1-35_15 in the image. Polygons 0_16-0_40 are also shown in the image. [Vegetation type](https://onlinelibrary.wiley.com/doi/10.1111/geb.13164 "Nature in Norway types, see supplement") is given as rounded percentages of one of three major types (columns 2-9): T1 Bare rock, T2 Open shallow-soil ground, T32 Semi-natural grassland, or T4 Forest. |
 | infer_absences.R | An R script for expanding the occurrence.txt data file to include absences. |
 | occurrence_pa.txt | Occurrence data including absences, created with infer_absences.R |
+| taxa_artsnavnebasen.csv | Species names, including taxon rank and Norwegian common name, updated according to the Norwegian Species Nomenclature Database ([Artsnavnebasen](http://www2.artsdatabanken.no/artsnavn/Contentpages/Sok.aspx)) |
 
 
 ![Polygons on Gressholmen](Gressholmen_polygoner.png)
