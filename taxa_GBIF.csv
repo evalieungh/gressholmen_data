@@ -1,50 +1,50 @@
-Rank, ScientificName, CommonName
-species, Acinos arvensis (Lam.) Dandy, Bakkemynte
-species, Androsace septentrionalis L., Smånøkkel
-species, Arabis hirsuta (L.) Scop., Bergskrinneblom
-species, Aria edulis (Willd.) M.Roem., Sølvasal
-species, Asplenium ruta-muraria L., Murburkne
-species, Avenula pratensis (L.) Dumort., Enghavre
-species, Carex caryophyllea Latourr., Vårstarr
-species, Carlina vulgaris L., Stjernetistel
-species, Centaurea scabiosa L., Fagerknoppurt
-species, Cerastium semidecandrum L., Vårarve
-species, Cotoneaster niger (Fr.) Fr., Svartmispel
-species, Cotoneaster scandinavicus B.Hylmö, Dvergmispel
-species, Cynoglossum officinale L., Hundetunge
-species, Draba verna L., Vårrublom
-species, Dracocephalum ruyschiana L., Dragehode
-species, Echium vulgare L., Ormehode
-species, Epipactis atrorubens (Hoffm.) Besser, Rødflangre
-species, Erysimum virgatum Roth, Berggull
-species, Filipendula vulgaris Moench, Knollmjødurt
-species, Fragaria viridis Duchesne, Nakkebær
-species, Geranium sanguineum L., Blodstorkenebb
-species, Hypochaeris maculata L., Flekkgrisøre
-species, Inula salicina L., Krattalant
-species, Lappula squarrosa (Retz.) Dumort., Sprikepiggfrø
-species, Lepidium campestre (L.) W.T.Aiton, Markkarse
-species, Ligustrum vulgare L., Liguster
-species, Linum catharticum L., Vill-lin
-species, Lithospermum officinale L., Legesteinfrø
-species, Myosotis ramosissima Rochel, Bakkeforglemmegei
-species, Myosotis stricta Link ex Roem. & Schult., Dvergforglemmegei
-species, Myosurus minimus L., Muserumpe
-species, Odontites litoralis (Fr.) Fr., Strandrødtopp
-species, Phleum phleoides (L.) H.Karst., Smaltimotei
-variety, Poa alpina var. alpina, Frøfjellrapp
-species, Poa compressa L., Flatrapp
-species, Polygonatum odoratum (Mill.) Druce, Kantkonvall
-species, Potentilla crantzii (Crantz) Beck ex Fritsch, Flekkmure
-species, Rhamnus cathartica L., Geitved
-species, Rosa majalis Herrm., Kanelrose
-species, Saxifraga granulata L., Nyresildre
-species, Saxifraga osloensis Knaben, Oslosildre
-species, Saxifraga tridactylites L., Trefingersildre
-species, Scleranthus perennis L., Flerårsknavel
-species, Seseli libanotis (L.) W.D.J.Koch, Hjorterot
-species, Silene nutans L., Nikkesmelle
-species, Thymus pulegioides L., Bakketimian
-species, Veronica arvensis L., Bakkeveronika
-species, Veronica spicata L., Aksveronika
-species, Woodsia alpina (Bolton) Gray, Fjell-lodnebregne
+Rank,OldName,ScientificName,VernacularName
+species,Acinos arvensis (Lam.) Dandy,Acinos arvensis (Lam.) Dandy,Bakkemynte
+species,Androsace septentrionalis L.,Androsace septentrionalis L.,Smånøkkel
+species,Arabis hirsuta (L.) Scop.,Arabis hirsuta (L.) Scop.,Bergskrinneblom
+species,Aria edulis (Willd.) M.Roem.,Aria edulis (Willd.) M.Roem.,Sølvasal
+species,Asplenium ruta-muraria L.,Asplenium ruta-muraria L.,Murburkne
+species,Avenula pratensis (L.) Dumort.,Avenula pratensis (L.) Dumort.,Enghavre
+species,Carex caryophyllea Latourr.,Carex caryophyllea Latourr.,Vårstarr
+species,Carlina vulgaris L.,Carlina vulgaris L.,Stjernetistel
+species,Centaurea scabiosa L.,Centaurea scabiosa L.,Fagerknoppurt
+species,Cerastium semidecandrum L.,Cerastium semidecandrum L.,Vårarve
+species,Cotoneaster integerrimus Medik.,Cotoneaster niger (Fr.) Fr.,Svartmispel
+species,Cotoneaster niger (Fr.) Fr.,Cotoneaster scandinavicus B.Hylmö,Dvergmispel
+species,Cynoglossum officinale L.,Cynoglossum officinale L.,Hundetunge
+species,Draba verna L.,Draba verna L.,Vårrublom
+species,Dracocephalum ruyschiana L.,Dracocephalum ruyschiana L.,Dragehode
+species,Echium vulgare L.,Echium vulgare L.,Ormehode
+species,Epipactis atrorubens (Hoffm.) Besser,Epipactis atrorubens (Hoffm.) Besser,Rødflangre
+species,Erysimum strictum P.Gaertn.,Erysimum virgatum Roth,Berggull
+species,Filipendula vulgaris Moench,Filipendula vulgaris Moench,Knollmjødurt
+species,Fragaria viridis Duchesne,Fragaria viridis Duchesne,Nakkebær
+species,Geranium sanguineum L.,Geranium sanguineum L.,Blodstorkenebb
+species,Hypochaeris maculata L.,Hypochaeris maculata L.,Flekkgrisøre
+species,Inula salicina Pall.,Inula salicina L.,Krattalant
+species,Lappula myosotis Moench,Lappula squarrosa (Retz.) Dumort.,Sprikepiggfrø
+species,Lepidium campestre (L.) W.T.Aiton,Lepidium campestre (L.) W.T.Aiton,Markkarse
+species,Ligustrum vulgare L.,Ligustrum vulgare L.,Liguster
+species,Linum catharticum L.,Linum catharticum L.,Vill-lin
+species,Lithospermum officinale L.,Lithospermum officinale L.,Legesteinfrø
+species,Myosotis ramosissima Rochel,Myosotis ramosissima Rochel,Bakkeforglemmegei
+species,Myosotis stricta Link ex Roem. & Schult.,Myosotis stricta Link ex Roem. & Schult.,Dvergforglemmegei
+species,Myosurus minimus L.,Myosurus minimus L.,Muserumpe
+species,Odontites litoralis Fr.,Odontites litoralis (Fr.) Fr.,Strandrødtopp
+species,Phleum phleoides (L.) H.Karst.,Phleum phleoides (L.) H.Karst.,Smaltimotei
+variety,Poa alpina var. alpina,Poa alpina var. alpina,Frøfjellrapp
+species,Poa compressa L.,Poa compressa L.,Flatrapp
+species,Polygonatum odoratum (Mill.) Druce,Polygonatum odoratum (Mill.) Druce,Kantkonvall
+species,Potentilla crantzii (Crantz) Beck,Potentilla crantzii (Crantz) Beck ex Fritsch,Flekkmure
+species,Rhamnus cathartica L.,Rhamnus cathartica L.,Geitved
+species,Rosa majalis Herrm.,Rosa majalis Herrm.,Kanelrose
+species,Saxifraga granulata L.,Saxifraga granulata L.,Nyresildre
+species,Saxifraga osloënsis Knaben,Saxifraga osloensis Knaben,Oslosildre
+species,Saxifraga tridactylites L.,Saxifraga tridactylites L.,Trefingersildre
+species,Scleranthus perennis L.,Scleranthus perennis L.,Flerårsknavel
+species,Seseli libanotis (L.) W.D.J.Koch,Seseli libanotis (L.) W.D.J.Koch,Hjorterot
+species,Silene nutans L.,Silene nutans L.,Nikkesmelle
+species,Thymus pulegioides L.,Thymus pulegioides L.,Bakketimian
+species,Veronica arvensis L.,Veronica arvensis L.,Bakkeveronika
+species,Veronica spicata L.,Veronica spicata L.,Aksveronika
+species,Woodsia alpina (Bolton) Gray,Woodsia alpina (Bolton) Gray,Fjell-lodnebregne
