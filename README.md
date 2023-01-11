@@ -1,7 +1,7 @@
 # Additional data for Presence-absence of plant habitat specialists in 15 patches of calcareous, dry grasslands
 
-### paper doi: 
-### data doi:  https://doi.org/10.15468/v8kq9n
+### paper doi: <https://doi.org/10.5281/zenodo.7304386>
+### data doi:  <https://doi.org/10.15468/v8kq9n>
 ### <https://www.gbif.org/dataset/a99cf6c0-4eb2-476b-8414-a513f0925d86>
 
 Contact: [Eva Lieungh](https://evalieungh.github.io/)
